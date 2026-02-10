@@ -1,0 +1,6368 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0618368,
+          52.4030727
+        ]
+      },
+      "properties": {
+        "name": "800°",
+        "amenity": "restaurant",
+        "cuisine": "steak_house",
+        "opening_hours": "Mo-Sa 17:00-22:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0581256,
+          52.4030885
+        ]
+      },
+      "properties": {
+        "name": "Café Heider",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "opening_hours": "Mo-Fr 08:00-24:00+;Sa 09:00-24:00+;Su 10:00-24:00+",
+        "website": "https://cafeheider.de/",
+        "phone": "+493312705596",
+        "outdoor_seating": "yes",
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0556297,
+          52.4024236
+        ]
+      },
+      "properties": {
+        "name": "Juliette",
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "opening_hours": "We-Mo 12:00-15:30,18:00-22:00",
+        "website": "https://www.restaurant-juliette.de/",
+        "phone": "+49331 2701791",
+        "outdoor_seating": null,
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0944601,
+          52.3911788
+        ]
+      },
+      "properties": {
+        "name": "Babelsberger Küche",
+        "amenity": "fast_food",
+        "cuisine": "german",
+        "opening_hours": "Mo-Fr 07:00-14:00; PH closed",
+        "website": "http://babelsbergerkueche.de/",
+        "phone": null,
+        "outdoor_seating": "no",
+        "wheelchair": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0922617,
+          52.3938820
+        ]
+      },
+      "properties": {
+        "name": "la copa",
+        "amenity": "restaurant",
+        "cuisine": "spanish",
+        "opening_hours": null,
+        "website": "http://www.la-copa.de/",
+        "phone": "+49 331 73042722",
+        "outdoor_seating": "yes",
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0910787,
+          52.3916356
+        ]
+      },
+      "properties": {
+        "name": "Bistro Femo",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "opening_hours": "09:00-05:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "sidewalk",
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0912435,
+          52.3913417
+        ]
+      },
+      "properties": {
+        "name": "Gleis 6 Karaoke",
+        "amenity": "pub",
+        "cuisine": null,
+        "opening_hours": "Mo-Th 18:00-23:00; Fr,Sa 18:00-02:00+; Su,PH off",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "no",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0945310,
+          52.3917882
+        ]
+      },
+      "properties": {
+        "name": "Napule'e",
+        "amenity": "restaurant",
+        "cuisine": "italian;pizza",
+        "opening_hours": "Mo-Su 12:00-23:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0928183,
+          52.3937705
+        ]
+      },
+      "properties": {
+        "name": "Zillestube Trattoria",
+        "amenity": "restaurant",
+        "cuisine": "italian;pizza",
+        "opening_hours": "PH,Mo-Su 10:30-23:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0945635,
+          52.3907850
+        ]
+      },
+      "properties": {
+        "name": "Ristorante Fidele",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "opening_hours": "Mo-Fr 17:00+, Sa,Su 10:00-14:00,17:00+; Dec 24 off; Dec 25-26 11:00-15:00; Dec 31 17:00-22:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0977479,
+          52.3900857
+        ]
+      },
+      "properties": {
+        "name": "Steakhouse MENDOZA",
+        "amenity": "restaurant",
+        "cuisine": "mexican;steak_house",
+        "opening_hours": "Mo-Su,PH 12:00-23:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0912690,
+          52.3914179
+        ]
+      },
+      "properties": {
+        "name": "Asia Snack",
+        "amenity": "fast_food",
+        "cuisine": "chinese",
+        "opening_hours": "Mo-Su 11:00-21:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0942335,
+          52.3915550
+        ]
+      },
+      "properties": {
+        "name": "Vis-a-vis",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "opening_hours": "24/7",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0953075,
+          52.3918392
+        ]
+      },
+      "properties": {
+        "name": "Konsum",
+        "amenity": "bar",
+        "cuisine": null,
+        "opening_hours": "Tu-Fr 18:00-24:00; Sa 00:00-01:00,17:00-24:00; Su 00:00-01:00,17:00-23:00; Mo off",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0865504,
+          52.3943601
+        ]
+      },
+      "properties": {
+        "name": "Al Dente",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "opening_hours": "Tu-Su 11:00-23:00; Mo off",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0897170,
+          52.3944790
+        ]
+      },
+      "properties": {
+        "name": "Sushi Bar Asia Tran",
+        "amenity": "fast_food",
+        "cuisine": "sushi",
+        "opening_hours": "Mo-Sa 11:00-21:00; Su,PH 14:00-21:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0555130,
+          52.4015828
+        ]
+      },
+      "properties": {
+        "name": "Brasserie zu Gutenberg",
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "opening_hours": "12:00-24:00",
+        "website": "https://www.brasserie-zu-gutenberg.de/",
+        "phone": "+49 331 74036878",
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0537413,
+          52.4025443
+        ]
+      },
+      "properties": {
+        "name": "mea culpa",
+        "amenity": "restaurant",
+        "cuisine": "tapas",
+        "opening_hours": "Mo-Sa 12:00-24:00; Su,PH 12:00-18:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0545110,
+          52.4021794
+        ]
+      },
+      "properties": {
+        "name": "Sala Thai",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "opening_hours": "Mo-Fr 11:30-15:00,17:00-21:00; We off; PH,Sa,Su 11:30-21:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0536925,
+          52.4022316
+        ]
+      },
+      "properties": {
+        "name": "Kimono",
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "opening_hours": null,
+        "website": "https://www.kimono-potsdam.de/",
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0540919,
+          52.4021743
+        ]
+      },
+      "properties": {
+        "name": "minima culpa",
+        "amenity": "restaurant",
+        "cuisine": "mediterranean",
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0536102,
+          52.4018712
+        ]
+      },
+      "properties": {
+        "name": "Bar Fritz'n",
+        "amenity": "bar",
+        "cuisine": null,
+        "opening_hours": "Mo-Su,PH 18:00-03:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0535731,
+          52.4016766
+        ]
+      },
+      "properties": {
+        "name": "Craddock Burger & Bar",
+        "amenity": "pub",
+        "cuisine": "burger",
+        "opening_hours": "Mo-Th 16:00-24:00+, Fr-Su,PH 12:00-01:00+",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0534926,
+          52.4013264
+        ]
+      },
+      "properties": {
+        "name": "Steakhaus Montana",
+        "amenity": "restaurant",
+        "cuisine": "steak_house",
+        "opening_hours": "Mo-Sa 12:00-23:00; Su,PH 12:00-22:30",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0533790,
+          52.4007250
+        ]
+      },
+      "properties": {
+        "name": "Nori",
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "opening_hours": "Tu-Su,PH 12:00-21:30",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0566607,
+          52.4016719
+        ]
+      },
+      "properties": {
+        "name": "Napule è",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "opening_hours": "We-Mo 11:30-23:00; Tu off",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": null,
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0575672,
+          52.4018067
+        ]
+      },
+      "properties": {
+        "name": "Bagels & Coffee",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:30-17:00; Su 09:00-17:00",
+        "website": "https://www.bagels-potsdam.de",
+        "phone": "+493318871612",
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0575857,
+          52.4012677
+        ]
+      },
+      "properties": {
+        "name": "Döner Food",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "opening_hours": "Mo-Th 10:00-03:00, Fr-Sa 10:00-06:00, Su 10:00-03:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0604316,
+          52.3894499
+        ]
+      },
+      "properties": {
+        "name": "Café zum Kanzler Eck",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": "We-Sa 09:00-18:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0575622,
+          52.4006728
+        ]
+      },
+      "properties": {
+        "name": "Fahlands Filmbistro",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": "Mo-Sa 08:00-18:00; Su 09:00-18:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0899028,
+          52.3960823
+        ]
+      },
+      "properties": {
+        "name": "Pizza Max",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "opening_hours": "11:00-22:30",
+        "website": null,
+        "phone": "+49 331 7407740",
+        "outdoor_seating": "no",
+        "wheelchair": "limited",
+        "takeaway": "only"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0531217,
+          52.4024232
+        ]
+      },
+      "properties": {
+        "name": "India Haus",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "opening_hours": "Su-Th 11:00-23:00; Fr,Sa,PH 11:00-24:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0522391,
+          52.4019201
+        ]
+      },
+      "properties": {
+        "name": "ShamRock's Potsdam",
+        "amenity": "pub",
+        "cuisine": null,
+        "opening_hours": "Mo-Sa 19:00-24:00+",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0523597,
+          52.4009074
+        ]
+      },
+      "properties": {
+        "name": "Café Laila",
+        "amenity": "restaurant",
+        "cuisine": "persian",
+        "opening_hours": "Tu-Su,PH 11:30-22:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "sidewalk",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0522710,
+          52.4019954
+        ]
+      },
+      "properties": {
+        "name": "Café à la Russe",
+        "amenity": "restaurant",
+        "cuisine": "russian",
+        "opening_hours": "Tu,We,Th,Su 12:00-19:00; Fr,Sa 12:00-20:00; PH,Mo off",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0537887,
+          52.4004707
+        ]
+      },
+      "properties": {
+        "name": "Backstoltz",
+        "amenity": "restaurant",
+        "cuisine": "breakfast;international;cake;coffee_shop",
+        "opening_hours": "Mo 11:30-18:00; Tu-Fr 09:00-20:00; Sa 10:00-20:00; PH,Su off",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0564040,
+          52.4007042
+        ]
+      },
+      "properties": {
+        "name": "Eccellenza Siciliana",
+        "amenity": "restaurant",
+        "cuisine": null,
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0519803,
+          52.4011228
+        ]
+      },
+      "properties": {
+        "name": "Creperie La Madeleine",
+        "amenity": "restaurant",
+        "cuisine": "crepe;french",
+        "opening_hours": "PH,Mo-Su 12:00-22:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0774933,
+          52.3943105
+        ]
+      },
+      "properties": {
+        "name": "Addy's Bistro und Café",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "opening_hours": "PH,Mo-Su 10:00-21:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "pedestrian_zone",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0580067,
+          52.4016119
+        ]
+      },
+      "properties": {
+        "name": "China-Thai-Snack",
+        "amenity": "fast_food",
+        "cuisine": "chinese",
+        "opening_hours": "Mo-Fr 11:00-22:00, Sa,Su,PH 11:30-22:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0580260,
+          52.4018847
+        ]
+      },
+      "properties": {
+        "name": "Pia Pizza",
+        "amenity": "restaurant",
+        "cuisine": "pizza;burger;pasta",
+        "opening_hours": "Mo-Su 10:00-24:00",
+        "website": null,
+        "phone": "+4933123610804",
+        "outdoor_seating": "sidewalk",
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0555568,
+          52.4013626
+        ]
+      },
+      "properties": {
+        "name": "Der Butt",
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "opening_hours": "PH,Mo-Su 12:00-18:00+",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0550479,
+          52.4013004
+        ]
+      },
+      "properties": {
+        "name": "Soup Bistro",
+        "amenity": "restaurant",
+        "cuisine": "soup",
+        "opening_hours": "Mo-Th 09:00-11:00,11:30-16:00; We,Fr 09:00-11:00,11:30-19:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "no",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0921474,
+          52.3927929
+        ]
+      },
+      "properties": {
+        "name": "Janny's Eis",
+        "amenity": "ice_cream",
+        "cuisine": "ice_cream",
+        "opening_hours": "11:00-18:00",
+        "website": "https://www.jannys-eis.com/",
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0559930,
+          52.3952703
+        ]
+      },
+      "properties": {
+        "name": "Pub à la Pub",
+        "amenity": "pub",
+        "cuisine": null,
+        "opening_hours": "Mo-Su 20:00-01:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0574011,
+          52.4020583
+        ]
+      },
+      "properties": {
+        "name": "Hafthorn",
+        "amenity": "pub",
+        "cuisine": null,
+        "opening_hours": "Mo-Fr 18:00-24:00+, Sa,Su 12:00-24:00+",
+        "website": "https://www.hafthorn.de/",
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0572025,
+          52.4109946
+        ]
+      },
+      "properties": {
+        "name": "Alexandrowka Haus 1",
+        "amenity": "restaurant",
+        "cuisine": "russian",
+        "opening_hours": "PH,Tu-Su 12:00-21:00",
+        "website": "https://www.alexandrowka-haus1.de/",
+        "phone": "+49 331 2006478",
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0521132,
+          52.4015421
+        ]
+      },
+      "properties": {
+        "name": "noidue",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "opening_hours": "Mo-Fr 16:00-23:00; Sa,Su 12:00-23:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0524370,
+          52.4011721
+        ]
+      },
+      "properties": {
+        "name": "Havelbohne",
+        "amenity": "cafe",
+        "cuisine": "sandwich",
+        "opening_hours": "Mo-Sa 09:00-18:00; Su,PH 10:00-18:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0531700,
+          52.4012564
+        ]
+      },
+      "properties": {
+        "name": "Babelsberger Küche",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "opening_hours": "Mo-Fr 10:00-14:00",
+        "website": "http://www.babelsbergerkueche.de/",
+        "phone": "+49 331 2013556",
+        "outdoor_seating": "no",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0500721,
+          52.3955827
+        ]
+      },
+      "properties": {
+        "name": "B20 Bistro",
+        "amenity": "fast_food",
+        "cuisine": "german",
+        "opening_hours": "Mo-Sa 09:00-24:00+; Su 10:00-24:00+",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0510555,
+          52.4133570
+        ]
+      },
+      "properties": {
+        "name": "Cafeteria",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "opening_hours": "Mo-Th 08:00-17:00; Fr 08:00-15:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0527651,
+          52.4033994
+        ]
+      },
+      "properties": {
+        "name": "Pot Still",
+        "amenity": "bar",
+        "cuisine": null,
+        "opening_hours": null,
+        "website": "https://www.potstillbar.de/",
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0622548,
+          52.3975453
+        ]
+      },
+      "properties": {
+        "name": "Globus Grill Bar",
+        "amenity": "fast_food",
+        "cuisine": "german;chicken",
+        "opening_hours": "Mo-Su 10:00-21:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "sidewalk",
+        "wheelchair": "limited",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0625881,
+          52.3976283
+        ]
+      },
+      "properties": {
+        "name": "Mami Dang",
+        "amenity": "restaurant",
+        "cuisine": "sushi;vietnamese",
+        "opening_hours": "PH,Mo-Su 11:30-22:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0515548,
+          52.3984936
+        ]
+      },
+      "properties": {
+        "name": "Long Hai",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0583062,
+          52.3966399
+        ]
+      },
+      "properties": {
+        "name": "Unscheinbar",
+        "amenity": "bar",
+        "cuisine": null,
+        "opening_hours": "Su off; Mo-Sa 19:00-03:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "sidewalk",
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0504222,
+          52.3997645
+        ]
+      },
+      "properties": {
+        "name": "Bistro XXL",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "opening_hours": "08:00-22:00+",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "pedestrian_zone",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0626203,
+          52.4028458
+        ]
+      },
+      "properties": {
+        "name": "Maya's",
+        "amenity": "restaurant",
+        "cuisine": "indian;singapurian",
+        "opening_hours": "11:00-23:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0662348,
+          52.3910952
+        ]
+      },
+      "properties": {
+        "name": "Wasserturm",
+        "amenity": "fast_food",
+        "cuisine": "pizza;pasta",
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "terrace",
+        "wheelchair": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0515546,
+          52.4000807
+        ]
+      },
+      "properties": {
+        "name": "Café Alice",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": "Mo-Su,PH 11:00-19:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0533128,
+          52.4003815
+        ]
+      },
+      "properties": {
+        "name": "Dortu17",
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "opening_hours": "Mo-Tu 16:30-22:30; We-Sa 12:00-22:30",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0523117,
+          52.4000021
+        ]
+      },
+      "properties": {
+        "name": "No. 15 Café-Restaurant",
+        "amenity": "cafe",
+        "cuisine": "mediterranean;sandwich",
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0926161,
+          52.3930689
+        ]
+      },
+      "properties": {
+        "name": "Babelsberger Küche",
+        "amenity": "fast_food",
+        "cuisine": "german",
+        "opening_hours": "Mo-Fr 10:00-14:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0842991,
+          52.4111074
+        ]
+      },
+      "properties": {
+        "name": "LOKalität",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "opening_hours": "Mo off; Tu 16:00-22:00; We-Su 11:30-22:00; PH 12:00-22:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0946295,
+          52.3918056
+        ]
+      },
+      "properties": {
+        "name": "Imbiss Sanssouci",
+        "amenity": "fast_food",
+        "cuisine": "german;kebab;pizza;turkish",
+        "opening_hours": "PH,Mo-Su 11:00-23:00+",
+        "website": "http://www.imbiss-sanssouci.de",
+        "phone": "+49 331 74000882",
+        "outdoor_seating": "yes",
+        "wheelchair": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0948500,
+          52.4143190
+        ]
+      },
+      "properties": {
+        "name": "Lutter & Wegner",
+        "amenity": "restaurant",
+        "cuisine": null,
+        "opening_hours": "Tu-Su 12:00-20:30",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0516475,
+          52.4001182
+        ]
+      },
+      "properties": {
+        "name": "Softeis",
+        "amenity": "ice_cream",
+        "cuisine": null,
+        "opening_hours": "\"je nach Saison\"",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "limited",
+        "takeaway": "only"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0514845,
+          52.3996575
+        ]
+      },
+      "properties": {
+        "name": "Zur Linde",
+        "amenity": "restaurant",
+        "cuisine": "regional;german",
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0714961,
+          52.3898257
+        ]
+      },
+      "properties": {
+        "name": "Exner",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": "Mo-Fr 06:00-17:30; Su 07:00-11:30; Sa 06:00-13:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0600624,
+          52.4030308
+        ]
+      },
+      "properties": {
+        "name": "Poffertjes en Pannekoeken",
+        "amenity": "fast_food",
+        "cuisine": "pancake",
+        "opening_hours": "Mo-Su 12:00-20:00",
+        "website": "https://www.poffertjes-en-pannekoeken.de/",
+        "phone": "+49 331 60080386",
+        "outdoor_seating": "yes",
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0589176,
+          52.4028884
+        ]
+      },
+      "properties": {
+        "name": "Café Guam",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": "11:00-18:00+",
+        "website": "http://www.cafe-guam.de/",
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0586507,
+          52.4028554
+        ]
+      },
+      "properties": {
+        "name": "Le Petit",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "opening_hours": "Su-Mo 12:00-22:00; Tu off",
+        "website": "http://www.restaurant-le-petit-im-hollaenderviertel.de",
+        "phone": "+49 331 7403895",
+        "outdoor_seating": null,
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0619626,
+          52.4030897
+        ]
+      },
+      "properties": {
+        "name": "Maison Charlotte",
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "opening_hours": "PH,Mo-Sa 12:00-15:00,16:00-22:00; Su off",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0616352,
+          52.4030479
+        ]
+      },
+      "properties": {
+        "name": "Augustiner im Holländischen Viertel",
+        "amenity": "restaurant",
+        "cuisine": "bavarian",
+        "opening_hours": "PH,Mo-Su 12:00-22:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0607875,
+          52.4041206
+        ]
+      },
+      "properties": {
+        "name": "Tomasa",
+        "amenity": "restaurant",
+        "cuisine": null,
+        "opening_hours": "9:00-24:00",
+        "website": "http://www.tomasa.de/tomasa-potsdam",
+        "phone": "+49 331 88763030",
+        "outdoor_seating": null,
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0584955,
+          52.3993586
+        ]
+      },
+      "properties": {
+        "name": "Redo Gelato",
+        "amenity": "cafe",
+        "cuisine": "ice_cream",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-20:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0623491,
+          52.4036993
+        ]
+      },
+      "properties": {
+        "name": "Das kleine Holländische",
+        "amenity": "cafe",
+        "cuisine": "dutch;cake;sandwich",
+        "opening_hours": "Mo-Fr 07:30-18:00; Sa-Su 10:00-18:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "unknown",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0607025,
+          52.4031637
+        ]
+      },
+      "properties": {
+        "name": "La Maison du Chocolat",
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "opening_hours": "PH,Mo-Su 10:00-21:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0955898,
+          52.3918639
+        ]
+      },
+      "properties": {
+        "name": "Karli Döner",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "opening_hours": "Mo-Su 00:00-01:00,08:00-24:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0917481,
+          52.3921356
+        ]
+      },
+      "properties": {
+        "name": "Kellermann",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": "Mo-Th,Su 10:00-22:00; Fr-Sa 10:00-23:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0589227,
+          52.3994174
+        ]
+      },
+      "properties": {
+        "name": "ALEX",
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "opening_hours": "Fr,Sa 09:00-02:00, Mo-Th 09:00-24:00, PH,Su 09:00-24:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "patio",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0579004,
+          52.3999108
+        ]
+      },
+      "properties": {
+        "name": "Kaiserwetter",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "opening_hours": "We-Su 10:00-18:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0653356,
+          52.3924957
+        ]
+      },
+      "properties": {
+        "name": "Asia Gourmet",
+        "amenity": "fast_food",
+        "cuisine": "asian",
+        "opening_hours": "Mo-Sa 09:30-20:30; Su,PH 10:00-20:30",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "no",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0679360,
+          52.3959802
+        ]
+      },
+      "properties": {
+        "name": "Bootsvermietung Moisl / Freundschaftsinsel",
+        "amenity": "ice_cream",
+        "cuisine": null,
+        "opening_hours": "Apr-Oct 10:00-20:00 \"nur bei schönem Wetter - Vor- und Nebensaison abweichend\"",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "no",
+        "wheelchair": "no",
+        "takeaway": "only"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0581529,
+          52.4034891
+        ]
+      },
+      "properties": {
+        "name": "Petite Pauline",
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "opening_hours": "Mo-Fr 12:00-22:00, Sa,Su 09:00-22:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0576912,
+          52.4034948
+        ]
+      },
+      "properties": {
+        "name": "La Lemon Vita",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": "Th-Su 10:00-18:00",
+        "website": "https://lalemonvita.de/",
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0748367,
+          52.4098929
+        ]
+      },
+      "properties": {
+        "name": "Vereinslokal Mühlengrund",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0927832,
+          52.3936997
+        ]
+      },
+      "properties": {
+        "name": "Eli's Gelato",
+        "amenity": "ice_cream",
+        "cuisine": null,
+        "opening_hours": "\"Winterpause, ab 2026-03-01 geöffnet\"",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0603391,
+          52.3934360
+        ]
+      },
+      "properties": {
+        "name": "El Puerto",
+        "amenity": "restaurant",
+        "cuisine": "tapas",
+        "opening_hours": "Jun-Aug Su-Th 11:00-23:00; Jun-Aug Fr,Sa 11:00-23:30",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0583972,
+          52.4032149
+        ]
+      },
+      "properties": {
+        "name": "Redo XXL",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "opening_hours": "Su-Th 12:00-22:00; Fr-Sa 12:00-24:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0583101,
+          52.4017151
+        ]
+      },
+      "properties": {
+        "name": "Taverna Mesedopolio to Steki",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "opening_hours": "We-Mo 11:30-22:30",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "sidewalk",
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0590918,
+          52.4000745
+        ]
+      },
+      "properties": {
+        "name": "KOI",
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "opening_hours": "Mo-Fr 11:30-22:00; PH,Sa,Su 12:00-22:00",
+        "website": null,
+        "phone": "+4933181322806",
+        "outdoor_seating": "yes",
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0667402,
+          52.4008485
+        ]
+      },
+      "properties": {
+        "name": "Cafeteria",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": "Mo-Fr 07:00-17:30; PH,Sa,Su 14:00-17:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0676004,
+          52.3909048
+        ]
+      },
+      "properties": {
+        "name": "Potsdam Grillhaus",
+        "amenity": "fast_food",
+        "cuisine": "kebab;chicken",
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0890086,
+          52.3942490
+        ]
+      },
+      "properties": {
+        "name": "Cafeteria",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": "Mo-Fr 09:00-16:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "terrace",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0538290,
+          52.4089284
+        ]
+      },
+      "properties": {
+        "name": "Jimmy's L.A. Bar",
+        "amenity": "bar",
+        "cuisine": null,
+        "opening_hours": "Mo-Th 17:00-23:00; Fr,Sa 15:00-23:00; Su off",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0536281,
+          52.4088037
+        ]
+      },
+      "properties": {
+        "name": "Le Bistro",
+        "amenity": "restaurant",
+        "cuisine": "mediterranean;regional",
+        "opening_hours": "Tu-Sa 18:30-22:00; Mo,Su off",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0535268,
+          52.4089930
+        ]
+      },
+      "properties": {
+        "name": "Bierstube \"Fritze\"",
+        "amenity": "pub",
+        "cuisine": null,
+        "opening_hours": "Fr-Su 18:00-23:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0525178,
+          52.4000289
+        ]
+      },
+      "properties": {
+        "name": "Herr Dang",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "opening_hours": "11:00-23:00",
+        "website": "http://www.herr-dang.de/",
+        "phone": null,
+        "outdoor_seating": "pedestrian_zone",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0582049,
+          52.4044899
+        ]
+      },
+      "properties": {
+        "name": "Trattoria Pane e Vino",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "opening_hours": "Mo-Sa 12:00-23:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0585782,
+          52.4072613
+        ]
+      },
+      "properties": {
+        "name": "World of Pizza",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "opening_hours": null,
+        "website": "https://www.world-of-pizza.de/",
+        "phone": "+493312700800",
+        "outdoor_seating": null,
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0671406,
+          52.4054758
+        ]
+      },
+      "properties": {
+        "name": "Sagar",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "opening_hours": "Mo-Su,PH 11:00-23:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0699457,
+          52.3970650
+        ]
+      },
+      "properties": {
+        "name": "Residenzcafé",
+        "amenity": "restaurant",
+        "cuisine": "cake",
+        "opening_hours": "Sa-Su,PH 14:30-19:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0583992,
+          52.4033616
+        ]
+      },
+      "properties": {
+        "name": "G.I.G.",
+        "amenity": "restaurant",
+        "cuisine": null,
+        "opening_hours": "Mo-Th 12:00-20:00; Fr-Su 12:00-22:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0601346,
+          52.4037248
+        ]
+      },
+      "properties": {
+        "name": "LaLeander",
+        "amenity": "bar",
+        "cuisine": null,
+        "opening_hours": "Mo-Fr 13:00-01:00, Sa-Su 11:00-01:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0542069,
+          52.4063539
+        ]
+      },
+      "properties": {
+        "name": "Keng's Landhaus",
+        "amenity": "restaurant",
+        "cuisine": "regional;sushi",
+        "opening_hours": "Mo-Su 11:30-21:30+",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0540962,
+          52.4021974
+        ]
+      },
+      "properties": {
+        "name": "Adriatic",
+        "amenity": "restaurant",
+        "cuisine": "croatian;mediterranean",
+        "opening_hours": "Tu-Sa 11:30-23:00; PH,Mo off",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0749782,
+          52.4029022
+        ]
+      },
+      "properties": {
+        "name": "Theaterkantine",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0926637,
+          52.3916714
+        ]
+      },
+      "properties": {
+        "name": "Zum Löwen",
+        "amenity": "pub",
+        "cuisine": null,
+        "opening_hours": "18:00+",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0518523,
+          52.3993828
+        ]
+      },
+      "properties": {
+        "name": "Madia",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0517668,
+          52.4004811
+        ]
+      },
+      "properties": {
+        "name": "Udonge Vegan",
+        "amenity": "restaurant",
+        "cuisine": null,
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0516762,
+          52.4002091
+        ]
+      },
+      "properties": {
+        "name": "Ice Cream",
+        "amenity": "ice_cream",
+        "cuisine": null,
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0534067,
+          52.4009297
+        ]
+      },
+      "properties": {
+        "name": "Piccolo Pane",
+        "amenity": "cafe",
+        "cuisine": "italian",
+        "opening_hours": "Mo-Fr 17:00-22:00; Sa 15:00-22:00; PH,Su off",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0947238,
+          52.3918157
+        ]
+      },
+      "properties": {
+        "name": "Lindenburger",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "opening_hours": "12:00-21:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0800780,
+          52.3812919
+        ]
+      },
+      "properties": {
+        "name": "Asia Imbiss",
+        "amenity": "fast_food",
+        "cuisine": "asian",
+        "opening_hours": "Mo-Fr 10:30-15:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0919321,
+          52.3924487
+        ]
+      },
+      "properties": {
+        "name": "SuBBa",
+        "amenity": "fast_food",
+        "cuisine": "vietnamese",
+        "opening_hours": "Mo-Sa 11:00-21:00",
+        "website": "https://www.yelp.de/biz/subba-potsdam",
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0563793,
+          52.4014525
+        ]
+      },
+      "properties": {
+        "name": "Die Espressonisten",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 10:00-17:00; PH,Su off",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0588789,
+          52.4019688
+        ]
+      },
+      "properties": {
+        "name": "Die Eisfrau",
+        "amenity": "ice_cream",
+        "cuisine": null,
+        "opening_hours": "12:00-19:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0580122,
+          52.4016652
+        ]
+      },
+      "properties": {
+        "name": "Istanbul Grillhaus",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0606123,
+          52.4033406
+        ]
+      },
+      "properties": {
+        "name": "Lemon Gras",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "opening_hours": "We-Su 12:00-22:00; Mo,Tu off",
+        "website": "https://www.thairestaurantpotsdam.de/",
+        "phone": "+49 331 588 8484",
+        "outdoor_seating": "yes",
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0943749,
+          52.3917579
+        ]
+      },
+      "properties": {
+        "name": "Izi's Bäckerei & Café",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": "Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su 06:00-18:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0767868,
+          52.4088042
+        ]
+      },
+      "properties": {
+        "name": "Da Pazzi",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "opening_hours": "Tu-Su 16:00-23:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0923511,
+          52.3919978
+        ]
+      },
+      "properties": {
+        "name": "Masala Rasoi",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0922218,
+          52.3895572
+        ]
+      },
+      "properties": {
+        "name": "Yoko Sushi",
+        "amenity": "fast_food",
+        "cuisine": "sushi",
+        "opening_hours": "11:30-21:30",
+        "website": "https://webshop.yoko.de/storedata/listStore",
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0594866,
+          52.3972412
+        ]
+      },
+      "properties": {
+        "name": "et cetera",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "opening_hours": "Mo-Sa 10:00-18:00; Su 13:00-18:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0555131,
+          52.4026006
+        ]
+      },
+      "properties": {
+        "name": "Belmundo",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "opening_hours": "Mo-Th 11:30-15:00",
+        "website": "https://belmundo.eu/",
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0818912,
+          52.3925127
+        ]
+      },
+      "properties": {
+        "name": "Sushi for you",
+        "amenity": "fast_food",
+        "cuisine": "sushi",
+        "opening_hours": "Mo-Su 11:30-22:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "no",
+        "wheelchair": null,
+        "takeaway": "only"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0646020,
+          52.4005224
+        ]
+      },
+      "properties": {
+        "name": "Kaffeepause",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": "Mo-Fr 08:00-18:00; PH,Sa,Su 10:00-18:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0601031,
+          52.3938045
+        ]
+      },
+      "properties": {
+        "name": "Oscar",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "opening_hours": "Mo-Sa 12:00-14:00",
+        "website": "https://www.mercure-hotel-potsdam.de/en/restaurant-bar/",
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0924616,
+          52.3917171
+        ]
+      },
+      "properties": {
+        "name": "Domino’s",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0903197,
+          52.3898105
+        ]
+      },
+      "properties": {
+        "name": "Stadtteilkneipe Nowawes",
+        "amenity": "pub",
+        "cuisine": null,
+        "opening_hours": "Su-Th 17:00-01:00, Fr 17:00-02:00, Sa 16:30-02:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "no",
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0756700,
+          52.4034918
+        ]
+      },
+      "properties": {
+        "name": "Il Teatro",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "opening_hours": "Mo-Su,PH 12:00-22:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0587502,
+          52.4034431
+        ]
+      },
+      "properties": {
+        "name": "Van Gogh Shisha Lounge",
+        "amenity": "bar",
+        "cuisine": null,
+        "opening_hours": "Tu-Th 18:00-00:00; Fr-Sa 18:00-24:00; Sa,Su 00:00-03:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0575433,
+          52.4014788
+        ]
+      },
+      "properties": {
+        "name": "ah & oh",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": "Tu-Su 10:00-19:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0537019,
+          52.4000439
+        ]
+      },
+      "properties": {
+        "name": "Orient Food",
+        "amenity": "fast_food",
+        "cuisine": "kebab;chicken;noodle;pizza",
+        "opening_hours": "Mo-Su,PH 10:00-23:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0537149,
+          52.4001158
+        ]
+      },
+      "properties": {
+        "name": "Café Montana",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": "PH,Mo-Su 10:00-18:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0527753,
+          52.4021945
+        ]
+      },
+      "properties": {
+        "name": "Masala Haus",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "opening_hours": "11:00-23:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0510346,
+          52.3990678
+        ]
+      },
+      "properties": {
+        "name": "Fancy Donuts",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": "Mo-Sa 12:30-18:30; PH,Su off",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0530630,
+          52.4023040
+        ]
+      },
+      "properties": {
+        "name": "Brahmii",
+        "amenity": "ice_cream",
+        "cuisine": "ice_cream;macarons",
+        "opening_hours": "Mo-Fr 12:00-18:00",
+        "website": "https://brahmstaedts.de/",
+        "phone": "+49 331 23163232",
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0588796,
+          52.4008164
+        ]
+      },
+      "properties": {
+        "name": "Buena Vida Coffee Club",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "opening_hours": "Mo-Sa 08:00-18:00; Su,PH 09:00-18:00",
+        "website": "https://buenavidacoffee.de",
+        "phone": "+49 331 87093393",
+        "outdoor_seating": "yes",
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0584911,
+          52.4009562
+        ]
+      },
+      "properties": {
+        "name": "Schnitzery",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0569692,
+          52.4005892
+        ]
+      },
+      "properties": {
+        "name": "Loft",
+        "amenity": "restaurant",
+        "cuisine": "german;regional",
+        "opening_hours": "Tu-Sa 12:00-23:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0533019,
+          52.4021457
+        ]
+      },
+      "properties": {
+        "name": "Tamada",
+        "amenity": "restaurant",
+        "cuisine": "gregorian",
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0665636,
+          52.3924299
+        ]
+      },
+      "properties": {
+        "name": "Comebuy",
+        "amenity": "cafe",
+        "cuisine": "bubble_tea",
+        "opening_hours": "PH,Mo-Su 11:00-20:00",
+        "website": "https://comebuypotsdam.de/",
+        "phone": null,
+        "outdoor_seating": "no",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0655046,
+          52.3923353
+        ]
+      },
+      "properties": {
+        "name": "Burgermeister",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "opening_hours": null,
+        "website": "https://burgermeister.com/",
+        "phone": null,
+        "outdoor_seating": "no",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0527500,
+          52.4002331
+        ]
+      },
+      "properties": {
+        "name": "Trattoria Amalfi",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "opening_hours": "11:30+",
+        "website": "https://www.trattoria-amalfi-potsdam.com/",
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0522832,
+          52.4001744
+        ]
+      },
+      "properties": {
+        "name": "Yumi Point",
+        "amenity": "fast_food",
+        "cuisine": "asian;sushi",
+        "opening_hours": null,
+        "website": null,
+        "phone": "+49 331 23165977",
+        "outdoor_seating": "no",
+        "wheelchair": "yes",
+        "takeaway": "only"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0509283,
+          52.3999998
+        ]
+      },
+      "properties": {
+        "name": "dean&david",
+        "amenity": "fast_food",
+        "cuisine": "salad;sandwich",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 12:00-20:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "pedestrian_zone",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0906763,
+          52.3904499
+        ]
+      },
+      "properties": {
+        "name": "Café Femo",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0908443,
+          52.3977273
+        ]
+      },
+      "properties": {
+        "name": "Osteria No. 1",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "opening_hours": "PH,Mo-Sa 16:00-23:00; Su 12:00-23:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": null,
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0532765,
+          52.4001221
+        ]
+      },
+      "properties": {
+        "name": "Centrale",
+        "amenity": "fast_food",
+        "cuisine": "italian",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "website": "https://www.pizzeriacentraleantipasteria.de/",
+        "phone": "+",
+        "outdoor_seating": "sidewalk",
+        "wheelchair": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0527206,
+          52.4000534
+        ]
+      },
+      "properties": {
+        "name": "Cafe Bamboo",
+        "amenity": "cafe",
+        "cuisine": "bubble_tea",
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0509385,
+          52.3998196
+        ]
+      },
+      "properties": {
+        "name": "Seoulgarden koreanisches Restaurant",
+        "amenity": "restaurant",
+        "cuisine": null,
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0934882,
+          52.3917698
+        ]
+      },
+      "properties": {
+        "name": "Die Eisfrau",
+        "amenity": "ice_cream",
+        "cuisine": "ice_cream",
+        "opening_hours": "Tu-Th 12:00-18:00; Fr 12:00-19:00; Sa-Su 11:00-19:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0560136,
+          52.4000438
+        ]
+      },
+      "properties": {
+        "name": "Pizzeria No.1",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "opening_hours": "11:00-22:00",
+        "website": "https://www.pizzeria-nr-1.de/",
+        "phone": "+49 331 2010498",
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0589927,
+          52.3950922
+        ]
+      },
+      "properties": {
+        "name": "Genusswerkstatt Potsdam",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "opening_hours": "Tu-Su 09:00-22:00",
+        "website": "https://www.genusswerkstatt-potsdam.de/",
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0535995,
+          52.3995392
+        ]
+      },
+      "properties": {
+        "name": "Fabis Today",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": "PH,Mo-Su 08:00-21:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0558444,
+          52.3978848
+        ]
+      },
+      "properties": {
+        "name": "Ricciotti",
+        "amenity": "cafe",
+        "cuisine": "mediterranean",
+        "opening_hours": "Mo-Su 09:00-17:00 || \"An Veranstaltungstagen im Nikolaisaal bis 20 Uhr geöffnet.\"",
+        "website": "https://www.cafe-ricciotti.de/",
+        "phone": "+49 331 58565220",
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0822099,
+          52.3899499
+        ]
+      },
+      "properties": {
+        "name": "Am Übergang",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "opening_hours": "Tu-Sa 16:00-23:00; Su 10:00-20:00",
+        "website": "https://amübergang.de/",
+        "phone": "+49 331 716301",
+        "outdoor_seating": "yes",
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0616959,
+          52.3951377
+        ]
+      },
+      "properties": {
+        "name": "San Giorgio",
+        "amenity": "ice_cream",
+        "cuisine": "ice_cream",
+        "opening_hours": "Mo-Su,PH 10:00-20:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "sidewalk",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0660944,
+          52.4036859
+        ]
+      },
+      "properties": {
+        "name": "Café am Holländischen Viertel",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": "Mo-Fr 08:30-17:00; Sa-Su 12:00-17:00",
+        "website": "https://www.cafe-graefehaus.de/",
+        "phone": "+49 331 20081558",
+        "outdoor_seating": null,
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0516941,
+          52.4010424
+        ]
+      },
+      "properties": {
+        "name": "Neighborhood Café",
+        "amenity": "cafe",
+        "cuisine": "breakfast;cake;moroccan;tea",
+        "opening_hours": "Mo-We 10:00-18:00; Th-Sa 10:00-20:00; Su off",
+        "website": "https://neighbourhoodcafe.de",
+        "phone": null,
+        "outdoor_seating": "sidewalk",
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0610511,
+          52.4038920
+        ]
+      },
+      "properties": {
+        "name": "Kaffee Einstein",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;fish_and_chips;crepe;pasta",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa-Su 08:00-19:00",
+        "website": "https://einsteinkaffee-bistropotsdam.de/",
+        "phone": "+49 331 23162801",
+        "outdoor_seating": "patio",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0536101,
+          52.3996092
+        ]
+      },
+      "properties": {
+        "name": "Zanotto",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "opening_hours": "We-Mo 18:00-22:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0671673,
+          52.3843746
+        ]
+      },
+      "properties": {
+        "name": "Waldcafé",
+        "amenity": "fast_food",
+        "cuisine": "german;hot_dog;cake;pasta;sausage",
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "no",
+        "takeaway": "only"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0580497,
+          52.4021875
+        ]
+      },
+      "properties": {
+        "name": "Friedrich Burger",
+        "amenity": "restaurant",
+        "cuisine": "fast_food",
+        "opening_hours": "Mo-Su 12:00-22:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0576658,
+          52.4027624
+        ]
+      },
+      "properties": {
+        "name": "Atlanfiss",
+        "amenity": "fast_food",
+        "cuisine": "salad;smoothie",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0595187,
+          52.4027691
+        ]
+      },
+      "properties": {
+        "name": "Café Collage",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": "12:00-22:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0777295,
+          52.3945344
+        ]
+      },
+      "properties": {
+        "name": "Glück's Pizzeria",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "opening_hours": "Mo-Su,PH 10:30-23:30",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0626404,
+          52.4027858
+        ]
+      },
+      "properties": {
+        "name": "Bar 54",
+        "amenity": "bar",
+        "cuisine": null,
+        "opening_hours": "Tu-Th 18:00-23:45; Fr,Sa 18:00-02:00; PH,Mo off",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0580109,
+          52.4015498
+        ]
+      },
+      "properties": {
+        "name": "Burger Kebap",
+        "amenity": "fast_food",
+        "cuisine": "turkish;kebab;burger",
+        "opening_hours": "09:30-05:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0585997,
+          52.4026448
+        ]
+      },
+      "properties": {
+        "name": "Lekker Koffie",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": "PH,Th-Tu 10:00-18:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0649581,
+          52.3819315
+        ]
+      },
+      "properties": {
+        "name": "Café Freundlich",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0603674,
+          52.3946140
+        ]
+      },
+      "properties": {
+        "name": "Landtagskantine",
+        "amenity": "fast_food",
+        "cuisine": "german",
+        "opening_hours": "Tu-Th 08:00-10:00,13:00-14:30; Mo,Fr 08:00-14:30",
+        "website": "https://www.widynski-roick.de/betriebsrestaurants/landtag-brandenburg-im-stadtschloss-potsdam/",
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0607131,
+          52.3937096
+        ]
+      },
+      "properties": {
+        "name": "Eismatrosen",
+        "amenity": "ice_cream",
+        "cuisine": null,
+        "opening_hours": "Mo-Su,PH 10:00-17:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "yes",
+        "takeaway": "only"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0535339,
+          52.4015519
+        ]
+      },
+      "properties": {
+        "name": "Downtown",
+        "amenity": "bar",
+        "cuisine": null,
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0506636,
+          52.3999627
+        ]
+      },
+      "properties": {
+        "name": "Eiscafé Boulevard",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "pedestrian_zone",
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0506935,
+          52.3990238
+        ]
+      },
+      "properties": {
+        "name": "Krümelfee Cafe & Backstube",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;cake",
+        "opening_hours": "Sa-Su 10:00-17:00; We-Fr 13:00-19:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0533399,
+          52.4005400
+        ]
+      },
+      "properties": {
+        "name": "Café Rosenberg",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": "Mo-Su 10:00-18:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0555767,
+          52.3993669
+        ]
+      },
+      "properties": {
+        "name": "Koschuweit Kabarett Kneipe",
+        "amenity": "pub",
+        "cuisine": null,
+        "opening_hours": "\"An Spieltagen min. 1 Stunde vor Vorstellungsbeginn geöffnet.\"",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0733845,
+          52.4023444
+        ]
+      },
+      "properties": {
+        "name": "Museumscafé",
+        "amenity": "cafe",
+        "cuisine": "sandwich",
+        "opening_hours": "We-Su 13:00-18:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0605173,
+          52.4041991
+        ]
+      },
+      "properties": {
+        "name": "Happy Hour II",
+        "amenity": "bar",
+        "cuisine": null,
+        "opening_hours": "17:00-04:00",
+        "website": "https://www.happyhour-potsdam.de/happy-2/",
+        "phone": "+49 331 295324",
+        "outdoor_seating": null,
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0620898,
+          52.3957017
+        ]
+      },
+      "properties": {
+        "name": "Café Central",
+        "amenity": "cafe",
+        "cuisine": "ice_cream",
+        "opening_hours": "Tu,Th,Su 12:00-18:00; Fr,Sa 12:00-20:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0543703,
+          52.3997309
+        ]
+      },
+      "properties": {
+        "name": "A Slice of Britain",
+        "amenity": "cafe",
+        "cuisine": "sandwich;cake",
+        "opening_hours": "Tu-Sa 10:00-17:00; PH,Mo,Su off",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0622325,
+          52.3954808
+        ]
+      },
+      "properties": {
+        "name": "Cafe Barberini",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0513285,
+          52.3991708
+        ]
+      },
+      "properties": {
+        "name": "Print&Coffee",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 10:00-17:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0560131,
+          52.4000975
+        ]
+      },
+      "properties": {
+        "name": "DaDa Noodle",
+        "amenity": "restaurant",
+        "cuisine": null,
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0606437,
+          52.4032604
+        ]
+      },
+      "properties": {
+        "name": "Piccolo Pane",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "opening_hours": "Mo-Fr 17:00-22:00; Sa 12:00-22:00; Su,PH off",
+        "website": "https://piccolo-pane.de/",
+        "phone": "+49 173 6093711",
+        "outdoor_seating": "yes",
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0781440,
+          52.3894229
+        ]
+      },
+      "properties": {
+        "name": "hausZwei",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": "\"Nur bei Veranstaltungen geöffnet\"",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0575507,
+          52.3963386
+        ]
+      },
+      "properties": {
+        "name": "Restaurant Waage",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "opening_hours": "Tu-Sa 16:00-23:00; Su 12:00-22:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0991658,
+          52.3922071
+        ]
+      },
+      "properties": {
+        "name": "Restaurant Paros",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "opening_hours": "PH,Mo-Su 11:30-21:00",
+        "website": "https://paros-potsdam.de/",
+        "phone": "+49 331 7481180",
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0980392,
+          52.3920745
+        ]
+      },
+      "properties": {
+        "name": "Sagar Tikka Haus",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "opening_hours": "PH,Mo-Su 11:00-23:00",
+        "website": "https://www.sagar-tikkahaus.de/",
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0970089,
+          52.3919864
+        ]
+      },
+      "properties": {
+        "name": "Happy Hour",
+        "amenity": "pub",
+        "cuisine": null,
+        "opening_hours": "Mo-Su,PH 17:00-04:00",
+        "website": "https://www.happyhour-potsdam.de/",
+        "phone": "+49 331 708506",
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0552358,
+          52.3991027
+        ]
+      },
+      "properties": {
+        "name": "bar gelb",
+        "amenity": "pub",
+        "cuisine": null,
+        "opening_hours": "19:00-24:00+",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0540194,
+          52.4017900
+        ]
+      },
+      "properties": {
+        "name": "Schech's Bar",
+        "amenity": "bar",
+        "cuisine": null,
+        "opening_hours": "We-Sa 18:00+; Su-Tu off",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "sidewalk",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0576140,
+          52.4018663
+        ]
+      },
+      "properties": {
+        "name": "Old Town Hanoi",
+        "amenity": "restaurant",
+        "cuisine": "vietnamese;sushi",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "website": "https://www.old-town-hanoi.de",
+        "phone": "+49 331 81709640",
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0587021,
+          52.4051378
+        ]
+      },
+      "properties": {
+        "name": "Österelli",
+        "amenity": "restaurant",
+        "cuisine": "austrian",
+        "opening_hours": "Mo,Th,Fr 17:00-22:00; PH,Sa,Su 13:00-22:00; Tu,We off",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0653909,
+          52.4073283
+        ]
+      },
+      "properties": {
+        "name": "Cafè Midi",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa,Su 10:00-18:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0521806,
+          52.4017429
+        ]
+      },
+      "properties": {
+        "name": "Le's Cyclo",
+        "amenity": "restaurant",
+        "cuisine": "vietnamese",
+        "opening_hours": "Tu-Su 12:00-22:00; Mo,PH off",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0670345,
+          52.3886732
+        ]
+      },
+      "properties": {
+        "name": "Burger City Potsdam",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "opening_hours": "Mo-Fr 11:00-24:00; Sa,Su 00:00-01:00,11:00-24:00",
+        "website": null,
+        "phone": "+49 331 27335965",
+        "outdoor_seating": "no",
+        "wheelchair": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0536399,
+          52.4020280
+        ]
+      },
+      "properties": {
+        "name": "Griechische Taverne TOU BAKALI",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "opening_hours": "Mo-Su,PH 11:00-24:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0536521,
+          52.4020881
+        ]
+      },
+      "properties": {
+        "name": "Da Vinci Lounge Potsdam",
+        "amenity": "bar",
+        "cuisine": null,
+        "opening_hours": "18:30+",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0702046,
+          52.4195829
+        ]
+      },
+      "properties": {
+        "name": "Café Cecilie",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0659695,
+          52.3958216
+        ]
+      },
+      "properties": {
+        "name": "Inselcafé Potsdam",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0561553,
+          52.4071668
+        ]
+      },
+      "properties": {
+        "name": "Kantine KZV",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "opening_hours": "Mo-Fr 07:00-14:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0582831,
+          52.4007583
+        ]
+      },
+      "properties": {
+        "name": "Miss Green Bean",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": "Mo-Sa 08:00-20:00; Su 09:00-19:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0545400,
+          52.4075754
+        ]
+      },
+      "properties": {
+        "name": "Bunt",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "opening_hours": "Mo-Fr 11:00-15:00, 16:30-20:00; Sa 12:00-20:00",
+        "website": null,
+        "phone": "+49 331 887 19960",
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0524548,
+          52.4028619
+        ]
+      },
+      "properties": {
+        "name": "Lounge Am Jägertor",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "opening_hours": "Tu-Sa 12:00-14:00,18:00-22:00; Su-Mo 12:00-14:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0535991,
+          52.3994376
+        ]
+      },
+      "properties": {
+        "name": "Fabi's Hütte",
+        "amenity": "restaurant",
+        "cuisine": null,
+        "opening_hours": null,
+        "website": "https://www.fabis-huette.de/",
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0575452,
+          52.3960767
+        ]
+      },
+      "properties": {
+        "name": "Kochzimmer",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "opening_hours": "Tu-Sa 18:00-23:30",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "no",
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0933560,
+          52.3946424
+        ]
+      },
+      "properties": {
+        "name": "El Toro",
+        "amenity": "restaurant",
+        "cuisine": "steak_house",
+        "opening_hours": "Mo-Th,Su 11:00-23:00; Fr-Sa 11:00-24:00",
+        "website": "https://el-toro-steakhaus-14482-potsdam.de/",
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0668519,
+          52.4007554
+        ]
+      },
+      "properties": {
+        "name": "Kantine",
+        "amenity": "restaurant",
+        "cuisine": null,
+        "opening_hours": "Mo-Fr 11:00-14:00; PH,Sa,Su off",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0522881,
+          52.4020533
+        ]
+      },
+      "properties": {
+        "name": "Kichi",
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "opening_hours": "Tu-Th 16:00-21:00; Fr-Su 12:00-21:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0928764,
+          52.3938571
+        ]
+      },
+      "properties": {
+        "name": "Lukas Café",
+        "amenity": "cafe",
+        "cuisine": "breakfast;mexican",
+        "opening_hours": "Tu-Fr 9:30-17:30; PH,Sa-Su 10:00-17:30",
+        "website": "https://www.lukascafe.de/",
+        "phone": "+49 331 23531062",
+        "outdoor_seating": "no",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0739255,
+          52.4024169
+        ]
+      },
+      "properties": {
+        "name": "Sommer-Café Wiesel",
+        "amenity": "ice_cream",
+        "cuisine": null,
+        "opening_hours": "Mo-Fr 14:00-20:00; PH,Sa,Su 14:00-21:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "terrace",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0843279,
+          52.4154256
+        ]
+      },
+      "properties": {
+        "name": "Kongsnaes Restaurant & Bar",
+        "amenity": "restaurant",
+        "cuisine": "fish;regional",
+        "opening_hours": "Tu-Su,PH 11:00-23:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0711699,
+          52.4082360
+        ]
+      },
+      "properties": {
+        "name": "Höfts",
+        "amenity": "restaurant",
+        "cuisine": null,
+        "opening_hours": "Mo-Su 10:00-23:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0509382,
+          52.3995294
+        ]
+      },
+      "properties": {
+        "name": "HomeCooking Vietnam Gourmet",
+        "amenity": "restaurant",
+        "cuisine": "vietnamese",
+        "opening_hours": "Tu-Su,PH 11:00-21:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0514296,
+          52.3995364
+        ]
+      },
+      "properties": {
+        "name": "Glögi-Chef",
+        "amenity": "bar",
+        "cuisine": null,
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0913680,
+          52.3915722
+        ]
+      },
+      "properties": {
+        "name": "Damaskus Express",
+        "amenity": "fast_food",
+        "cuisine": "arab",
+        "opening_hours": "Mo-Fr 11:30-20:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": "only"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0607485,
+          52.4029384
+        ]
+      },
+      "properties": {
+        "name": "Bussi & Amore",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "opening_hours": "Th,Su,Mo 10:00-17:00; Fr,Sa 10:00-22:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0516838,
+          52.4010717
+        ]
+      },
+      "properties": {
+        "name": "De Lewante",
+        "amenity": "restaurant",
+        "cuisine": "arab",
+        "opening_hours": "Tu-Su 12:00-22:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0571464,
+          52.4006137
+        ]
+      },
+      "properties": {
+        "name": "Mago",
+        "amenity": "fast_food",
+        "cuisine": "german",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 08:00-14:00; Su,PH off",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0538474,
+          52.4008651
+        ]
+      },
+      "properties": {
+        "name": "Waikiki Burger",
+        "amenity": "restaurant",
+        "cuisine": "burger;hawaiian",
+        "opening_hours": "Mi-Th 12:00-22:00; Fr-Sa 12:00-23:00; Su 14:00-21:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0813976,
+          52.3927092
+        ]
+      },
+      "properties": {
+        "name": "Die Eisfrau",
+        "amenity": "ice_cream",
+        "cuisine": null,
+        "opening_hours": "Mo-Fr 13:00-18:00; Sa,Su 12:00-19:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0576279,
+          52.4052630
+        ]
+      },
+      "properties": {
+        "name": "Katine Stadthaus",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "opening_hours": "Mo-Th 08:00-15:00,Fr 08:00-13:30",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0516776,
+          52.4011022
+        ]
+      },
+      "properties": {
+        "name": "BAR-O-meter",
+        "amenity": "bar",
+        "cuisine": null,
+        "opening_hours": "Mo 20:00-24:00; Tu-Th 00:00-03:00,20:00-24:00; Fr,Sa 00:00-03:00,21:00-24:00; Su 00:00-03:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0550392,
+          52.3993032
+        ]
+      },
+      "properties": {
+        "name": "Olga",
+        "amenity": "pub",
+        "cuisine": null,
+        "opening_hours": "19:00+",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0530953,
+          52.4001000
+        ]
+      },
+      "properties": {
+        "name": "Eis-Café Amalfi",
+        "amenity": "ice_cream",
+        "cuisine": null,
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "no",
+        "wheelchair": "limited",
+        "takeaway": "only"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0529122,
+          52.4000753
+        ]
+      },
+      "properties": {
+        "name": "Subba",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0553151,
+          52.3993321
+        ]
+      },
+      "properties": {
+        "name": "Tyrus Imbiss",
+        "amenity": "fast_food",
+        "cuisine": "lebanese",
+        "opening_hours": "Mo-Sa 11:00-23:00; PH off",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0509338,
+          52.4144195
+        ]
+      },
+      "properties": {
+        "name": "Pizza Fabrik",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "opening_hours": "Mo-Sa 12:00-20:00; PH,Su off",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0614932,
+          52.3945122
+        ]
+      },
+      "properties": {
+        "name": "Peter Pane",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "opening_hours": "12:00-23:30",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0606171,
+          52.4022547
+        ]
+      },
+      "properties": {
+        "name": "Fridas Eis",
+        "amenity": "ice_cream",
+        "cuisine": null,
+        "opening_hours": "Mar-Oct 12:00-18:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "sidewalk",
+        "wheelchair": "yes",
+        "takeaway": "only"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0552999,
+          52.4003789
+        ]
+      },
+      "properties": {
+        "name": "Cafe Extrablatt",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "opening_hours": "Mo-Su,PH 09:00-24:00",
+        "website": "https://cafe-extrablatt.de/standorte/details/cafe-extrablatt-potsdam",
+        "phone": "+49 331 9793463",
+        "outdoor_seating": "pedestrian_zone",
+        "wheelchair": "yes",
+        "takeaway": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0663082,
+          52.4037039
+        ]
+      },
+      "properties": {
+        "name": "Zum Starstecher",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "opening_hours": "Mo-Sa 12:00-22:00; Su 12:00-15:00; PH 12:00-22:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0618480,
+          52.3943792
+        ]
+      },
+      "properties": {
+        "name": "L'Osteria",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "opening_hours": "Mo-Th 11:30-23:00, Fr,Sa 11:30-24:00, Su,PH 12:00-23:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0775270,
+          52.3946820
+        ]
+      },
+      "properties": {
+        "name": "Bao An",
+        "amenity": "restaurant",
+        "cuisine": "asian;sushi",
+        "opening_hours": "Mo-Sa 11:30-21:30",
+        "website": "https://www.baoanimbisspotsdam.de/",
+        "phone": "+49 331 23610895",
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0608707,
+          52.4025586
+        ]
+      },
+      "properties": {
+        "name": "Café Cecile",
+        "amenity": "cafe",
+        "cuisine": "ice_cream",
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0786470,
+          52.3942833
+        ]
+      },
+      "properties": {
+        "name": "Hertel's",
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "opening_hours": "Fr 10:00-18:30",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": "only"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0655972,
+          52.3923343
+        ]
+      },
+      "properties": {
+        "name": "Jasma Falafel",
+        "amenity": "fast_food",
+        "cuisine": "arab;lebanese",
+        "opening_hours": null,
+        "website": "https://www.jasma-falafel.de/",
+        "phone": "+4933188730981",
+        "outdoor_seating": "no",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0606619,
+          52.4094646
+        ]
+      },
+      "properties": {
+        "name": "Café Matschke Am Neuen Garten",
+        "amenity": "cafe",
+        "cuisine": "international",
+        "opening_hours": "Sa,Su 12:00-22:00; Tu,We,Fr 15:00-22:00; Mo,Th off",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0916457,
+          52.3918866
+        ]
+      },
+      "properties": {
+        "name": "Alte Rösterei",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": "Mo-Fr 07:00-18:30; PH,Sa,Su 08:30-18:30",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0746549,
+          52.4026496
+        ]
+      },
+      "properties": {
+        "name": "Fabrikcafé",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "opening_hours": "Mo-Fr 10:00-18:00; Sa,Su,Ph 14:00-18:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0533914,
+          52.4007868
+        ]
+      },
+      "properties": {
+        "name": "PAPA NÔ",
+        "amenity": "restaurant",
+        "cuisine": null,
+        "opening_hours": "PH,Mo-Su 12:00-22:00; Sa 09:00-22:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0782088,
+          52.3946041
+        ]
+      },
+      "properties": {
+        "name": "Glück’s Pizzeria",
+        "amenity": "fast_food",
+        "cuisine": "burger;pizza",
+        "opening_hours": "10:30-22:30",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0923899,
+          52.3940185
+        ]
+      },
+      "properties": {
+        "name": "Bobbys Pizza",
+        "amenity": "restaurant",
+        "cuisine": "pizza;ice_cream;italian",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "website": "https://bobbys-pizza-babelsberg.com",
+        "phone": "+49 331 70462257",
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0575082,
+          52.4008402
+        ]
+      },
+      "properties": {
+        "name": "Lodovico",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "opening_hours": "We-Fr 17:30-24:00, Sa,Su 12:00-17:00,17:30-24:00",
+        "website": "https://www.lodovico.de/",
+        "phone": "+49 331 2002777",
+        "outdoor_seating": "no",
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0564556,
+          52.4005246
+        ]
+      },
+      "properties": {
+        "name": "Glück’s Pizzeria",
+        "amenity": "fast_food",
+        "cuisine": "burger;pizza",
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0964863,
+          52.3962669
+        ]
+      },
+      "properties": {
+        "name": "Restaurant Otto Hiemke",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "opening_hours": "Mo-Th 16:00-23:00; Fr-Su 12:00-23:00",
+        "website": "https://www.restaurant-ottohiemke.de",
+        "phone": "+49 331 7480596",
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0858745,
+          52.4127979
+        ]
+      },
+      "properties": {
+        "name": "GARAGE du PONT",
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "opening_hours": "Th-Su 12:00-23:00",
+        "website": "https://garagedupont.de",
+        "phone": "+49 (0)331 870932-72",
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0507788,
+          52.4146439
+        ]
+      },
+      "properties": {
+        "name": "Softeis-Laden",
+        "amenity": "ice_cream",
+        "cuisine": null,
+        "opening_hours": "We-Mo 12:00-18:00+",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0875417,
+          52.4135942
+        ]
+      },
+      "properties": {
+        "name": "Café Pedales",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0676169,
+          52.3921809
+        ]
+      },
+      "properties": {
+        "name": "#freshtag",
+        "amenity": "fast_food",
+        "cuisine": "sushi;bubble_tea",
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0579277,
+          52.4003359
+        ]
+      },
+      "properties": {
+        "name": "Melody Pizzeria",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "opening_hours": "Mo-Su,PH 11:00-22:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "sidewalk",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0575376,
+          52.4003591
+        ]
+      },
+      "properties": {
+        "name": "PiPaSa",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "opening_hours": "Mo-Su,PH 11:00-22:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "sidewalk",
+        "wheelchair": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0575388,
+          52.4004319
+        ]
+      },
+      "properties": {
+        "name": "Crazy Tea",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": "Fr-Sa 11:00-22:00; Su-Th 11:00-21:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0575485,
+          52.4004938
+        ]
+      },
+      "properties": {
+        "name": "Bradost",
+        "amenity": "fast_food",
+        "cuisine": "kebab; burger",
+        "opening_hours": "Mo-Th 10:00-02:00, Fr-Sa 10:00-04:00, Su 10:00-02:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "sidewalk",
+        "wheelchair": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0542001,
+          52.4002335
+        ]
+      },
+      "properties": {
+        "name": "My Keng",
+        "amenity": "restaurant",
+        "cuisine": "asian;sushi;vietnamese",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": "Mo-Su 11:00-21:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0603451,
+          52.4031092
+        ]
+      },
+      "properties": {
+        "name": "Zum Fliegenden Holländer",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "opening_hours": "Mo-Sa 12:00-23:00; Su 12:00-21:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0926672,
+          52.3935087
+        ]
+      },
+      "properties": {
+        "name": "Lewy Wein-Bistro",
+        "amenity": "restaurant",
+        "cuisine": "mediterranean",
+        "opening_hours": "Mo-Tu,PH off; We-Sa 09:30-22:00; Su 09:30-18:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0605376,
+          52.4036417
+        ]
+      },
+      "properties": {
+        "name": "Bohneville",
+        "amenity": "cafe",
+        "cuisine": "cake",
+        "opening_hours": "Tu-Su 10:00-18:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0551280,
+          52.3949127
+        ]
+      },
+      "properties": {
+        "name": "EssenzZeit",
+        "amenity": "fast_food",
+        "cuisine": null,
+        "opening_hours": "Mo-Fr 11:30-13:30; PH,Sa,Su off",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0508105,
+          52.3998100
+        ]
+      },
+      "properties": {
+        "name": "Seoul Garden",
+        "amenity": "restaurant",
+        "cuisine": "korean",
+        "opening_hours": "Tu-Su 12:00-22:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0595613,
+          52.4003492
+        ]
+      },
+      "properties": {
+        "name": "Dönerhaus am Bassin",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "opening_hours": "Mo-Su,PH 10:00-21:30",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0513915,
+          52.3993585
+        ]
+      },
+      "properties": {
+        "name": "HaNa Tran",
+        "amenity": "restaurant",
+        "cuisine": "sushi;asian",
+        "opening_hours": "Mo-Fr 11:00-22:00; Sa,Su 12:00-22:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0909087,
+          52.3915622
+        ]
+      },
+      "properties": {
+        "name": "Miss Green Bean",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": "Mo-Fr 07:30-18:00; Sa 09:00-18:00; Su 10:00-17:00",
+        "website": "https://1448zwo.de/cafe/",
+        "phone": null,
+        "outdoor_seating": "veranda",
+        "wheelchair": "limited",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0916483,
+          52.3928652
+        ]
+      },
+      "properties": {
+        "name": "Barista & Friends",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa,Su 10:00-18:00",
+        "website": "https://www.instagram.com/barista_and_friends/",
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0602307,
+          52.3958233
+        ]
+      },
+      "properties": {
+        "name": "Café Franz",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": "Mo-Su 08:30-21:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0598406,
+          52.3957703
+        ]
+      },
+      "properties": {
+        "name": "Art & Sip Lounge",
+        "amenity": "bar",
+        "cuisine": null,
+        "opening_hours": "Tu-Su 13:00-22:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0531773,
+          52.4002864
+        ]
+      },
+      "properties": {
+        "name": "Kleiner Hei",
+        "amenity": "ice_cream",
+        "cuisine": null,
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "no",
+        "wheelchair": "yes",
+        "takeaway": "only"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0688582,
+          52.3960490
+        ]
+      },
+      "properties": {
+        "name": "Restaurant",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": "Während Vorstellungen",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0604028,
+          52.3958711
+        ]
+      },
+      "properties": {
+        "name": "Keng Deli 1986",
+        "amenity": "restaurant",
+        "cuisine": "vietnamese",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "website": "https://kengdeli.com",
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0685734,
+          52.3889912
+        ]
+      },
+      "properties": {
+        "name": "Essenzzeit Casino Staatskanzlei",
+        "amenity": "restaurant",
+        "cuisine": "german;international;regional",
+        "opening_hours": "Mo-Fr 08:00-15:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0817843,
+          52.3801168
+        ]
+      },
+      "properties": {
+        "name": "Casino in der H.M.A. 103",
+        "amenity": "restaurant",
+        "cuisine": "canteen",
+        "opening_hours": "Mo-Fr 08:00-14:00; PH off",
+        "website": "https://www.essenzzeit.de/kantinen/kantine-in-der-hma-103/",
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0873619,
+          52.3827749
+        ]
+      },
+      "properties": {
+        "name": "McDonald's",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "opening_hours": "Mo-Th 09:00-24:00, Fr 09:00-01:00, Sa 09:00-01:00, Su,PH 09:00-24:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0958932,
+          52.3841542
+        ]
+      },
+      "properties": {
+        "name": "Burger King",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "opening_hours": "Mo-Th 08:00-01:00; Fr,Sa 08:00-03:00; Su 09:00-01:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0558800,
+          52.4059094
+        ]
+      },
+      "properties": {
+        "name": "Suppenküche der Volkssolidarität",
+        "amenity": "restaurant",
+        "cuisine": null,
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0595322,
+          52.4004388
+        ]
+      },
+      "properties": {
+        "name": "Mina's",
+        "amenity": "cafe",
+        "cuisine": "ice_cream",
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0736253,
+          52.4013971
+        ]
+      },
+      "properties": {
+        "name": "Marina",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "opening_hours": "Mo-Fr 12:00-22:00+; Sa,Su 10:00-22:00+",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0668527,
+          52.3914087
+        ]
+      },
+      "properties": {
+        "name": "Divan Grill",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "opening_hours": "Mo-Th 09:30-23:30; Fr 09:30-24:00; Sa 00:00-04:00,09:30-24:00; Su 00:00-04:00,09:30-23:30",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "no",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0668597,
+          52.3915044
+        ]
+      },
+      "properties": {
+        "name": "Haferkater",
+        "amenity": "fast_food",
+        "cuisine": null,
+        "opening_hours": "Mo-Fr 06:00-20:00; Sa-Su 08:00-20:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "no",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0669092,
+          52.3920885
+        ]
+      },
+      "properties": {
+        "name": "Chutney",
+        "amenity": "fast_food",
+        "cuisine": null,
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "no",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0670669,
+          52.3922019
+        ]
+      },
+      "properties": {
+        "name": "Dunkin'",
+        "amenity": "fast_food",
+        "cuisine": "donut;coffee_shop",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "no",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0668993,
+          52.3919837
+        ]
+      },
+      "properties": {
+        "name": "Ma'loa",
+        "amenity": "fast_food",
+        "cuisine": "poke",
+        "opening_hours": "Mo-Fr 11:30-22:00;Sa-Su, PH 12:00-22:00",
+        "website": "https://www.maloa-poke-bowl.de/",
+        "phone": null,
+        "outdoor_seating": "no",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0665904,
+          52.3920474
+        ]
+      },
+      "properties": {
+        "name": "immergrün",
+        "amenity": "fast_food",
+        "cuisine": "sandwich;salad;juice",
+        "opening_hours": "Mo-Sa 09:30-20:30; Su,PH 11:00-19:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "yes",
+        "takeaway": "only"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0665712,
+          52.3918758
+        ]
+      },
+      "properties": {
+        "name": "McDonald's",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "opening_hours": "Mo-Th 09:00-23:00, Fr,Sa 09:00-01:00, Su,PH 09:00-23:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "no",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0665812,
+          52.3919647
+        ]
+      },
+      "properties": {
+        "name": "Espresso House",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "opening_hours": "Mo-Fr 05:30-20:30; PH,Sa,Su 07:00-20:30",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "no",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0665346,
+          52.3915188
+        ]
+      },
+      "properties": {
+        "name": "Subway",
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "opening_hours": "Mo-Th 09:00-22:00; Fr 09:00-23:00; Sa 10:00-23:00; Su,PH 10:00-22:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "no",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0666020,
+          52.3922247
+        ]
+      },
+      "properties": {
+        "name": "Pomodori",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "opening_hours": "11:00-20:30",
+        "website": "https://pomodori.berlin/pomodori-potsdam-im-hauptbahnhof/",
+        "phone": null,
+        "outdoor_seating": "no",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0662832,
+          52.3922349
+        ]
+      },
+      "properties": {
+        "name": "Nordsee",
+        "amenity": "fast_food",
+        "cuisine": "seafood",
+        "opening_hours": "Mo-Sa 09:30-20:00; Su 11:00-17:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "no",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0665402,
+          52.3915732
+        ]
+      },
+      "properties": {
+        "name": "CulinAsia",
+        "amenity": "fast_food",
+        "cuisine": "asian",
+        "opening_hours": "Mo-Sa 09:30-22:30; Su,PH 10:00-22:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "no",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0539787,
+          52.3958600
+        ]
+      },
+      "properties": {
+        "name": "Le petit Café",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0755560,
+          52.4040366
+        ]
+      },
+      "properties": {
+        "name": "Schiffsrestaurant \"John Barnett\"",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "opening_hours": "10:00-24:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "roof",
+        "wheelchair": "no",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0746850,
+          52.4023327
+        ]
+      },
+      "properties": {
+        "name": "Fabrikgarten",
+        "amenity": "biergarten",
+        "cuisine": null,
+        "opening_hours": "Mar 20-Oct 3 Mo-Fr 10:00-18:00, Sa-Su 14:00-18:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0559146,
+          52.3910417
+        ]
+      },
+      "properties": {
+        "name": "Felix am Hinzenberg",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "opening_hours": "Sa 14:00-21:00; Su 11:30-17:00; Mo-Fr off",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "garden",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0823634,
+          52.3900419
+        ]
+      },
+      "properties": {
+        "name": "\"Am Übergang\"",
+        "amenity": "biergarten",
+        "cuisine": null,
+        "opening_hours": "Tu-Sa 16:00-23:00; Su 10:00-20:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0582293,
+          52.3987723
+        ]
+      },
+      "properties": {
+        "name": "City Bistro",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "opening_hours": "10:00-02:00",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": "yes",
+        "takeaway": "only"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0624722,
+          52.3948676
+        ]
+      },
+      "properties": {
+        "name": "Café Barberini",
+        "amenity": "cafe",
+        "cuisine": null,
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": "yes",
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0844991,
+          52.4109606
+        ]
+      },
+      "properties": {
+        "name": "Biergarten LOKalität",
+        "amenity": "biergarten",
+        "cuisine": null,
+        "opening_hours": "Jun - Aug \"only on reservation\"",
+        "website": null,
+        "phone": null,
+        "outdoor_seating": null,
+        "wheelchair": null,
+        "takeaway": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0668938,
+          52.3919251
+        ]
+      },
+      "properties": {
+        "name": "Pommesfreunde",
+        "amenity": "fast_food",
+        "cuisine": "fries",
+        "opening_hours": null,
+        "website": "https://pommesfreunde.de/",
+        "phone": null,
+        "outdoor_seating": "no",
+        "wheelchair": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0940342,
+          52.4077957
+        ]
+      },
+      "properties": {
+        "name": "Restaurant",
+        "amenity": "fast_food",
+        "cuisine": null,
+        "opening_hours": null,
+        "website": null,
+        "phone": null,
+        "outdoor_seating": "yes",
+        "wheelchair": null,
+        "takeaway": null
+      }
+    }
+  ]
+}

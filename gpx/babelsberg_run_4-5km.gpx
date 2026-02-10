@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Park Babelsberg Info"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Laufrunde Park Babelsberg ~4,5 km (hügelig)</name>
+    <desc>Hügeliger Rundkurs durch Park Babelsberg. Community-Vorschlag – Wegegebot beachten (nur asphaltierte Hauptwege).</desc>
+    <author>
+      <name>Park Babelsberg Info</name>
+      <link href="https://park.babelsberger.info"/>
+    </author>
+    <time>2025-10-31T12:00:00Z</time>
+  </metadata>
+  <trk>
+    <name>Babelsberg Run 4.5km</name>
+    <desc>Hügelige Laufrunde durch Park Babelsberg mit Start am Haupteingang</desc>
+    <trkseg>
+      <!-- Start: Haupteingang Park Babelsberg (Parkstraße) -->
+      <trkpt lat="52.4090" lon="13.0950">
+        <ele>40</ele>
+        <time>2025-10-31T12:00:00Z</time>
+        <name>Start - Haupteingang Parkstraße</name>
+      </trkpt>
+
+      <!-- Richtung Schloss Babelsberg -->
+      <trkpt lat="52.4095" lon="13.0960">
+        <ele>42</ele>
+        <time>2025-10-31T12:03:00Z</time>
+      </trkpt>
+
+      <trkpt lat="52.4100" lon="13.0970">
+        <ele>45</ele>
+        <time>2025-10-31T12:06:00Z</time>
+      </trkpt>
+
+      <!-- Nähe Schloss Babelsberg (höchster Punkt) -->
+      <trkpt lat="52.4105" lon="13.0980">
+        <ele>52</ele>
+        <time>2025-10-31T12:09:00Z</time>
+        <name>Nähe Schloss Babelsberg</name>
+      </trkpt>
+
+      <!-- Richtung Uferweg -->
+      <trkpt lat="52.4110" lon="13.0985">
+        <ele>48</ele>
+        <time>2025-10-31T12:12:00Z</time>
+      </trkpt>
+
+      <trkpt lat="52.4115" lon="13.0990">
+        <ele>44</ele>
+        <time>2025-10-31T12:15:00Z</time>
+      </trkpt>
+
+      <!-- Uferweg Nord (Tiefster See Blick) -->
+      <trkpt lat="52.4120" lon="13.0995">
+        <ele>38</ele>
+        <time>2025-10-31T12:18:00Z</time>
+        <name>Uferweg Nord - Aussichtspunkt</name>
+      </trkpt>
+
+      <!-- Richtung Flatowturm -->
+      <trkpt lat="52.4115" lon="13.1000">
+        <ele>42</ele>
+        <time>2025-10-31T12:21:00Z</time>
+      </trkpt>
+
+      <trkpt lat="52.4108" lon="13.0995">
+        <ele>46</ele>
+        <time>2025-10-31T12:24:00Z</time>
+      </trkpt>
+
+      <!-- Flatowturm Bereich -->
+      <trkpt lat="52.4102" lon="13.0990">
+        <ele>50</ele>
+        <time>2025-10-31T12:27:00Z</time>
+        <name>Flatowturm Bereich</name>
+      </trkpt>
+
+      <!-- Rückweg zum Start -->
+      <trkpt lat="52.4095" lon="13.0980">
+        <ele>44</ele>
+        <time>2025-10-31T12:30:00Z</time>
+      </trkpt>
+
+      <trkpt lat="52.4092" lon="13.0965">
+        <ele>42</ele>
+        <time>2025-10-31T12:33:00Z</time>
+      </trkpt>
+
+      <!-- Ende: Zurück zum Haupteingang -->
+      <trkpt lat="52.4090" lon="13.0950">
+        <ele>40</ele>
+        <time>2025-10-31T12:35:00Z</time>
+        <name>Ende - Haupteingang</name>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

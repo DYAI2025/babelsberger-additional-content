@@ -1,0 +1,153 @@
+{
+  "routes": [
+    {
+      "id": "babelsberg-4-5km",
+      "park": "babelsberg",
+      "name": "Laufrunde Babelsberg 4,5 km",
+      "type": "running",
+      "distance": 4.5,
+      "elevation": 120,
+      "difficulty": "hügelig",
+      "duration": "25-35 Min",
+      "pace": "5:30-7:45 min/km",
+      "seasons": ["frühling", "sommer", "herbst"],
+      "seasonLabels": "🌸 Frühling · ☀️ Sommer · 🍂 Herbst",
+      "bestTime": "Morgens (6-8 Uhr) oder Abends (18-20 Uhr)",
+      "surface": "Asphalt (Hauptwege)",
+      "highlights": [
+        "Start am Haupteingang Parkstraße",
+        "Anstieg zum Schloss Babelsberg (höchster Punkt)",
+        "Uferweg Nord mit Panoramablick",
+        "Flatowturm-Bereich",
+        "Rückkehr zum Start"
+      ],
+      "gpx": "gpx/babelsberg_run_4-5km.gpx",
+      "warnings": "⚠️ Nur asphaltierte Hauptwege nutzen (Wegegebot). Hügelig - gut für Intervall-Training!",
+      "tips": {
+        "frühling": "Angenehme Temperaturen, blühende Parks. Ideale Laufsaison startet.",
+        "sommer": "Früh starten (kühl) oder spät (Golden Hour). Wasser mitnehmen!",
+        "herbst": "Buntes Laub, weniger Besucher. Perfekt für entspannte Läufe.",
+        "winter": "Nicht empfohlen - rutschig, frühe Dämmerung (Park schließt früh)"
+      }
+    },
+    {
+      "id": "babelsberg-7-7km",
+      "park": "babelsberg",
+      "name": "Laufrunde Babelsberg 7,7 km",
+      "type": "running",
+      "distance": 7.7,
+      "elevation": 180,
+      "difficulty": "anspruchsvoll",
+      "duration": "45-60 Min",
+      "pace": "5:50-7:45 min/km",
+      "seasons": ["frühling", "sommer", "herbst"],
+      "seasonLabels": "☀️ Sommer · 🍂 Herbst",
+      "bestTime": "Morgens (6-9 Uhr) bei längeren Tagen",
+      "surface": "Asphalt (Hauptwege)",
+      "highlights": [
+        "Start am Haupteingang",
+        "Südlicher Bereich (Matrosenhaus)",
+        "Schloss Babelsberg (52m Höhe)",
+        "Uferweg Nord bis Glienicker Brücke",
+        "Flatowturm + Gerichtslaube",
+        "Dampfmaschinenhaus",
+        "Rückkehr zum Start"
+      ],
+      "gpx": "gpx/babelsberg_run_7-7km.gpx",
+      "warnings": "⚠️ Anspruchsvoll - stetige Auf-/Abstiege. Festes Schuhwerk empfohlen!",
+      "tips": {
+        "frühling": "Längere Tage ermöglichen entspannte Pace. Blüten als Motivation!",
+        "sommer": "BESTE ZEIT - lange Tage, aber früh starten (Hitze). Perfekt für Ausdauer-Training.",
+        "herbst": "Kühler, ideal für schnelle Zeiten. Weniger Touristen = freie Wege.",
+        "winter": "Nur für Hartgesottene - kurze Tage, Park schließt früh"
+      }
+    },
+    {
+      "id": "neuer-garten-4km",
+      "park": "neuer-garten",
+      "name": "Laufrunde Neuer Garten 4,0 km",
+      "type": "running",
+      "distance": 4.0,
+      "elevation": 30,
+      "difficulty": "flach",
+      "duration": "20-30 Min",
+      "pace": "5:00-7:30 min/km",
+      "seasons": ["frühling", "sommer", "herbst"],
+      "seasonLabels": "🌸 Frühling · ☀️ Sommer · 🍂 Herbst",
+      "bestTime": "Morgens (6-8 Uhr) ruhig & kühl",
+      "surface": "Asphalt (Hauptwege)",
+      "highlights": [
+        "Start am Haupteingang Neuer Garten",
+        "Marmorpalais (Südufer Heiliger See)",
+        "Ostufer entlang",
+        "Nähe Cecilienhof",
+        "Westufer zurück",
+        "Eiskammer (Pyramide)"
+      ],
+      "gpx": "gpx/neuer-garten_loop_4-0km.gpx",
+      "warnings": "⚠️ Flach - ideal für Anfänger oder Erholung. Wegegebot beachten!",
+      "tips": {
+        "frühling": "Perfekt für Laufsaison-Start. Flach = gute Technik üben.",
+        "sommer": "See-Nähe = kühler. Ideal für Tempo-Läufe bei Hitze.",
+        "herbst": "Morgennebel über dem See = magische Atmosphäre!",
+        "winter": "Machbar, aber Park schließt früh (Dämmerung)"
+      }
+    },
+    {
+      "id": "neuer-garten-yoga",
+      "park": "neuer-garten",
+      "name": "Yoga & Achtsamkeit Neuer Garten",
+      "type": "yoga",
+      "distance": null,
+      "duration": "60-90 Min",
+      "difficulty": "alle Level",
+      "seasons": ["frühling", "sommer"],
+      "seasonLabels": "🌸 Frühling · ☀️ Sommer",
+      "bestTime": "Früh morgens (6-8 Uhr) - ruhig, wenig Besucher",
+      "spots": [
+        {
+          "name": "Wiese Ostufer Heiliger See",
+          "coordinates": [52.4140, 13.0690],
+          "features": "Eben, Morgen-Sonne, See-Blick, ruhig",
+          "seasons": ["frühling", "sommer"]
+        },
+        {
+          "name": "Wiese Nähe Marmorpalais",
+          "coordinates": [52.4145, 13.0695],
+          "features": "Eben, geschützt, Architektur-Blick",
+          "seasons": ["frühling", "sommer"]
+        }
+      ],
+      "equipment": [
+        "Robuste Yoga-Matte (Wiesen können feucht/uneben sein)",
+        "Zwiebellook (Morgen-Kühle → Sonnen-Wärme)",
+        "Trinkflasche",
+        "Insektenschutz (Sommer)",
+        "Sitzkissen optional (Meditation)"
+      ],
+      "warnings": "⚠️ Nur auf erlaubten Wiesen. Wegegebot respektieren!",
+      "tips": {
+        "frühling": "Kühl, aber erfrischend. Morgentau = Matte schützen. Blüten-Duft = Achtsamkeit!",
+        "sommer": "BESTE ZEIT - warm, lange Tage. ABER: Früh starten (Hitze + Besucher ab 10 Uhr).",
+        "herbst": "Wiesen oft feucht/matschig. Besser drinnen oder feste Unterlage mitbringen.",
+        "winter": "Nicht empfohlen - zu kalt, nasse Wiesen, Park schließt früh"
+      }
+    }
+  ],
+  "general_tips": {
+    "running": [
+      "Wegegebot: Nur asphaltierte Hauptwege nutzen (SPSG-Parkordnung)",
+      "Öffnungszeiten: 8:00 Uhr bis Dämmerung",
+      "Hundebesitzer: Anleinpflicht - aufpassen beim Überholen",
+      "GPX-Dateien vorher runterladen (nicht auf Mobilnetz verlassen)",
+      "Community-Vorschläge - keine offiziellen SPSG-Routen"
+    ],
+    "yoga": [
+      "Respekt vor Natur: Keine Blumen pflücken, Müll mitnehmen",
+      "Lautstärke: Leise bleiben (andere Besucher)",
+      "Gruppen: Max 3-4 Personen (diskret)",
+      "Wetter-Check: Bei Regen besser absagen",
+      "Alternative: Bei vollem Park → früher oder später kommen"
+    ]
+  }
+}

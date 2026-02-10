@@ -1,0 +1,350 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0647267,
+          52.3945108
+        ]
+      },
+      "properties": {
+        "name": "Öffentliches WC",
+        "access": "public",
+        "fee": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0660302,
+          52.3957944
+        ]
+      },
+      "properties": {
+        "name": "Öffentliches WC",
+        "access": "yes",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1184132,
+          52.3849940
+        ]
+      },
+      "properties": {
+        "name": "Öffentliches WC",
+        "access": "public",
+        "fee": "unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1160652,
+          52.3855549
+        ]
+      },
+      "properties": {
+        "name": "Öffentliches WC",
+        "access": "public",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1169567,
+          52.3870140
+        ]
+      },
+      "properties": {
+        "name": "Öffentliches WC",
+        "access": "customers",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0667645,
+          52.3924114
+        ]
+      },
+      "properties": {
+        "name": "Sanifair",
+        "access": "yes",
+        "fee": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0609753,
+          52.3937029
+        ]
+      },
+      "properties": {
+        "name": "Öffentliches WC",
+        "access": "public",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1172270,
+          52.3865157
+        ]
+      },
+      "properties": {
+        "name": "Öffentliches WC",
+        "access": "customers",
+        "fee": "unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1057150,
+          52.3961754
+        ]
+      },
+      "properties": {
+        "name": "Öffentliches WC",
+        "access": "permissive",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0748664,
+          52.4027655
+        ]
+      },
+      "properties": {
+        "name": "Öffentliches WC",
+        "access": "yes",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0684204,
+          52.3959968
+        ]
+      },
+      "properties": {
+        "name": "Öffentliches WC",
+        "access": "customers",
+        "fee": "unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0770136,
+          52.3892794
+        ]
+      },
+      "properties": {
+        "name": "Öffentliches WC",
+        "access": "customers",
+        "fee": "unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1003072,
+          52.3937997
+        ]
+      },
+      "properties": {
+        "name": "Öffentliches WC",
+        "access": "customers",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0785648,
+          52.3893569
+        ]
+      },
+      "properties": {
+        "name": "Öffentliches WC",
+        "access": "yes",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1168296,
+          52.3852653
+        ]
+      },
+      "properties": {
+        "name": "Öffentliches WC",
+        "access": "public",
+        "fee": "unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1185346,
+          52.3847900
+        ]
+      },
+      "properties": {
+        "name": "Öffentliches WC",
+        "access": "public",
+        "fee": "unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1155275,
+          52.3861599
+        ]
+      },
+      "properties": {
+        "name": "Öffentliches WC",
+        "access": "public",
+        "fee": "unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1079641,
+          52.3850365
+        ]
+      },
+      "properties": {
+        "name": "Öffentliches WC",
+        "access": "customers",
+        "fee": "unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0873374,
+          52.3828225
+        ]
+      },
+      "properties": {
+        "name": "Öffentliches WC",
+        "access": "customers",
+        "fee": "unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1186148,
+          52.3861310
+        ]
+      },
+      "properties": {
+        "name": "Öffentliches WC",
+        "access": "public",
+        "fee": "unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0721461,
+          52.3866144
+        ]
+      },
+      "properties": {
+        "name": "Öffentliches WC",
+        "access": "yes",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0672232,
+          52.3842820
+        ]
+      },
+      "properties": {
+        "name": "Öffentliches WC",
+        "access": "customers",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0917360,
+          52.3927533
+        ]
+      },
+      "properties": {
+        "name": "City Toilette",
+        "access": "public",
+        "fee": "yes"
+      }
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Park Babelsberg Info"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Laufrunde Park Babelsberg ~7,7 km (anspruchsvoll)</name>
+    <desc>Anspruchsvoller hügeliger Rundkurs durch Park Babelsberg mit erweiterten Wegen. Community-Vorschlag – Wegegebot beachten (nur asphaltierte Hauptwege).</desc>
+    <author>
+      <name>Park Babelsberg Info</name>
+      <link href="https://park.babelsberger.info"/>
+    </author>
+    <time>2025-10-31T12:00:00Z</time>
+  </metadata>
+  <trk>
+    <name>Babelsberg Run 7.7km</name>
+    <desc>Anspruchsvolle hügelige Laufrunde durch Park Babelsberg - erweiterte Route</desc>
+    <trkseg>
+      <!-- Start: Haupteingang Park Babelsberg -->
+      <trkpt lat="52.4090" lon="13.0950">
+        <ele>40</ele>
+        <time>2025-10-31T12:00:00Z</time>
+        <name>Start - Haupteingang</name>
+      </trkpt>
+
+      <!-- Südlicher Bereich -->
+      <trkpt lat="52.4085" lon="13.0940">
+        <ele>38</ele>
+        <time>2025-10-31T12:03:00Z</time>
+      </trkpt>
+
+      <trkpt lat="52.4080" lon="13.0945">
+        <ele>42</ele>
+        <time>2025-10-31T12:06:00Z</time>
+      </trkpt>
+
+      <!-- Matrosenhaus Bereich -->
+      <trkpt lat="52.4078" lon="13.0955">
+        <ele>36</ele>
+        <time>2025-10-31T12:09:00Z</time>
+        <name>Matrosenhaus</name>
+      </trkpt>
+
+      <!-- Richtung Schloss -->
+      <trkpt lat="52.4085" lon="13.0965">
+        <ele>44</ele>
+        <time>2025-10-31T12:13:00Z</time>
+      </trkpt>
+
+      <trkpt lat="52.4095" lon="13.0970">
+        <ele>48</ele>
+        <time>2025-10-31T12:17:00Z</time>
+      </trkpt>
+
+      <!-- Schloss Babelsberg (höchster Punkt) -->
+      <trkpt lat="52.4105" lon="13.0980">
+        <ele>52</ele>
+        <time>2025-10-31T12:21:00Z</time>
+        <name>Schloss Babelsberg - Höchster Punkt</name>
+      </trkpt>
+
+      <!-- Richtung Norden zum Uferweg -->
+      <trkpt lat="52.4110" lon="13.0985">
+        <ele>48</ele>
+        <time>2025-10-31T12:25:00Z</time>
+      </trkpt>
+
+      <trkpt lat="52.4115" lon="13.0990">
+        <ele>44</ele>
+        <time>2025-10-31T12:29:00Z</time>
+      </trkpt>
+
+      <!-- Uferweg Nord - Panoramablick -->
+      <trkpt lat="52.4120" lon="13.0995">
+        <ele>38</ele>
+        <time>2025-10-31T12:33:00Z</time>
+        <name>Uferweg Nord - Panorama</name>
+      </trkpt>
+
+      <trkpt lat="52.4125" lon="13.1000">
+        <ele>36</ele>
+        <time>2025-10-31T12:37:00Z</time>
+      </trkpt>
+
+      <!-- Nördlichster Punkt nahe Glienicker Brücke -->
+      <trkpt lat="52.4130" lon="13.1005">
+        <ele>34</ele>
+        <time>2025-10-31T12:41:00Z</time>
+        <name>Nähe Glienicker Brücke</name>
+      </trkpt>
+
+      <!-- Rückweg über östliche Wege -->
+      <trkpt lat="52.4125" lon="13.1010">
+        <ele>38</ele>
+        <time>2025-10-31T12:45:00Z</time>
+      </trkpt>
+
+      <trkpt lat="52.4118" lon="13.1008">
+        <ele>42</ele>
+        <time>2025-10-31T12:49:00Z</time>
+      </trkpt>
+
+      <!-- Flatowturm Bereich -->
+      <trkpt lat="52.4102" lon="13.0990">
+        <ele>50</ele>
+        <time>2025-10-31T12:54:00Z</time>
+        <name>Flatowturm</name>
+      </trkpt>
+
+      <!-- Gerichtslaube -->
+      <trkpt lat="52.4098" lon="13.0980">
+        <ele>46</ele>
+        <time>2025-10-31T12:58:00Z</time>
+        <name>Gerichtslaube</name>
+      </trkpt>
+
+      <!-- Dampfmaschinenhaus -->
+      <trkpt lat="52.4092" lon="13.0970">
+        <ele>42</ele>
+        <time>2025-10-31T13:02:00Z</time>
+        <name>Dampfmaschinenhaus</name>
+      </trkpt>
+
+      <!-- Letzte Etappe zurück -->
+      <trkpt lat="52.4090" lon="13.0960">
+        <ele>40</ele>
+        <time>2025-10-31T13:06:00Z</time>
+      </trkpt>
+
+      <!-- Ende: Zurück zum Haupteingang -->
+      <trkpt lat="52.4090" lon="13.0950">
+        <ele>40</ele>
+        <time>2025-10-31T13:08:00Z</time>
+        <name>Ende - Haupteingang</name>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

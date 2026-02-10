@@ -1,0 +1,317 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Parkordnung Vergleich: Park Babelsberg vs. Neuer Garten | Potsdam</title>
+<meta name="description" content="Detaillierter Vergleich der Parkordnungen von Park Babelsberg und Neuer Garten. Was ist wo erlaubt? Radfahren, Hunde, Grillen, Drohnen und mehr.">
+<link rel="stylesheet" href="assets/style.css">
+<style>
+.comparison-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 500px), 1fr));
+  gap: var(--space-6);
+  margin-top: var(--space-6);
+}
+
+.park-section {
+  background: var(--bg-primary);
+  border: 2px solid var(--border-light);
+  border-radius: var(--radius-xl);
+  overflow: hidden;
+  box-shadow: var(--shadow-md);
+}
+
+.park-header {
+  padding: var(--space-4);
+  background: linear-gradient(135deg, var(--accent-primary), var(--accent-secondary));
+  color: var(--text-inverse);
+}
+
+.park-header h2 {
+  margin: 0;
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+
+.park-image {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+  display: block;
+}
+
+.rules-list {
+  padding: var(--space-4);
+}
+
+.rule-item {
+  padding: var(--space-3);
+  margin-bottom: var(--space-3);
+  border-radius: var(--radius-md);
+  border-left: 4px solid;
+}
+
+.rule-allowed {
+  background: #ecfccb;
+  border-color: #84cc16;
+}
+
+.rule-allowed strong {
+  color: #365314;
+}
+
+.rule-restricted {
+  background: #fef3c7;
+  border-color: #f59e0b;
+}
+
+.rule-restricted strong {
+  color: #78350f;
+}
+
+.rule-forbidden {
+  background: #fee2e2;
+  border-color: #ef4444;
+}
+
+.rule-forbidden strong {
+  color: #7f1d1d;
+}
+
+.breadcrumb {
+  padding: var(--space-3) 0;
+  color: var(--text-muted);
+  font-size: 0.875rem;
+}
+
+.breadcrumb a {
+  color: var(--accent-primary);
+  text-decoration: none;
+}
+
+.breadcrumb a:hover {
+  text-decoration: underline;
+}
+</style>
+
+<!-- DSGVO-konformes Cookie-Consent-Management -->
+<script src="assets/cookie-consent.js"></script>
+</head>
+<body>
+
+<main>
+  <nav class="breadcrumb">
+    <a href="/">← Zurück zur Übersicht</a>
+  </nav>
+
+  <header style="margin-bottom: var(--space-6);">
+    <h1 style="@apply heading-xl; margin-bottom: var(--space-3);">Parkordnung Vergleich</h1>
+    <p style="@apply body-lg; color: var(--text-secondary); max-width: 800px;">
+      Park Babelsberg und Neuer Garten haben unterschiedliche Regeln. Hier findest du einen detaillierten Vergleich, 
+      was wo erlaubt oder verboten ist – damit du deinen Besuch optimal planen kannst.
+    </p>
+  </header>
+
+  <div class="comparison-grid">
+    <!-- Park Babelsberg -->
+    <section class="park-section">
+      <div class="park-header">
+        <h2>Park Babelsberg</h2>
+        <p style="margin: var(--space-2) 0 0; opacity: 0.95;">UNESCO-Welterbe · Historischer Landschaftspark</p>
+      </div>
+      
+      <img src="images/park-babelsberg/Parkordnung_Park_Babelsberg.jpeg" alt="Parkordnung Park Babelsberg" class="park-image">
+      
+      <div class="rules-list">
+        <div class="rule-allowed">
+          <strong>✓ Erlaubt: Radfahren auf Hauptwegen</strong>
+          <p style="margin: var(--space-1) 0 0; color: #4d7c0f;">
+            Asphaltierte Hauptwege sind für Radfahrer freigegeben. Wanderwege und Uferweg Nord nur schieben.
+          </p>
+        </div>
+
+        <div class="rule-allowed">
+          <strong>✓ Erlaubt: Hunde an der Leine</strong>
+          <p style="margin: var(--space-1) 0 0; color: #4d7c0f;">
+            Hunde sind willkommen, müssen aber angeleint sein. Hundekotbeutel mitbringen.
+          </p>
+        </div>
+
+        <div class="rule-allowed">
+          <strong>✓ Erlaubt: Picknicken auf Wiesen</strong>
+          <p style="margin: var(--space-1) 0 0; color: #4d7c0f;">
+            Große Liegewiesen laden zum Picknicken ein. Müll bitte mitnehmen.
+          </p>
+        </div>
+
+        <div class="rule-forbidden">
+          <strong>✗ Verboten: Grillen</strong>
+          <p style="margin: var(--space-1) 0 0; color: #991b1b;">
+            Offenes Feuer und Grillen sind zum Schutz der historischen Anlage verboten.
+          </p>
+        </div>
+
+        <div class="rule-forbidden">
+          <strong>✗ Verboten: Drohnen</strong>
+          <p style="margin: var(--space-1) 0 0; color: #991b1b;">
+            Drohnenflüge sind in allen SPSG-Parks verboten. Bußgeld bis 5.000€.
+          </p>
+        </div>
+
+        <div class="rule-forbidden">
+          <strong>✗ Verboten: Baden & Schwimmen</strong>
+          <p style="margin: var(--space-1) 0 0; color: #991b1b;">
+            Baden in der Havel ist nicht erlaubt. Keine Badeaufsicht, Strömung, Schiffsverkehr.
+          </p>
+        </div>
+
+        <div class="rule-restricted">
+          <strong>⚠ Eingeschränkt: Fotografieren</strong>
+          <p style="margin: var(--space-1) 0 0; color: #92400e;">
+            Private Fotos erlaubt. Kommerzielle Shootings benötigen Genehmigung der SPSG.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Neuer Garten -->
+    <section class="park-section">
+      <div class="park-header" style="background: linear-gradient(135deg, #059669, #10b981);">
+        <h2>Neuer Garten</h2>
+        <p style="margin: var(--space-2) 0 0; opacity: 0.95;">UNESCO-Welterbe · Englischer Landschaftsgarten</p>
+      </div>
+      
+      <img src="images/park-babelsberg/Parkordnung_neuer_garten.jpeg" alt="Parkordnung Neuer Garten" class="park-image">
+      
+      <div class="rules-list">
+        <div class="rule-allowed">
+          <strong>✓ Erlaubt: Radfahren auf Hauptwegen</strong>
+          <p style="margin: var(--space-1) 0 0; color: #4d7c0f;">
+            Ähnlich wie Park Babelsberg: Hauptwege ja, Wanderwege nein.
+          </p>
+        </div>
+
+        <div class="rule-allowed">
+          <strong>✓ Erlaubt: Hunde an der Leine</strong>
+          <p style="margin: var(--space-1) 0 0; color: #4d7c0f;">
+            Hunde müssen angeleint sein. Besonders wichtig wegen Wasservögeln am Heiligen See.
+          </p>
+        </div>
+
+        <div class="rule-allowed">
+          <strong>✓ Erlaubt: Picknicken</strong>
+          <p style="margin: var(--space-1) 0 0; color: #4d7c0f;">
+            Wiesen am Heiligen See sind beliebte Picknick-Spots.
+          </p>
+        </div>
+
+        <div class="rule-forbidden">
+          <strong>✗ Verboten: Grillen</strong>
+          <p style="margin: var(--space-1) 0 0; color: #991b1b;">
+            Wie in allen SPSG-Parks: Kein offenes Feuer, kein Grillen.
+          </p>
+        </div>
+
+        <div class="rule-forbidden">
+          <strong>✗ Verboten: Drohnen</strong>
+          <p style="margin: var(--space-1) 0 0; color: #991b1b;">
+            Drohnenverbot gilt parkweit. Auch hier: Bußgeld bis 5.000€.
+          </p>
+        </div>
+
+        <div class="rule-forbidden">
+          <strong>✗ Verboten: Baden im Heiligen See</strong>
+          <p style="margin: var(--space-1) 0 0; color: #991b1b;">
+            Baden im Heiligen See ist verboten. Naturschutzgebiet, keine Badeaufsicht.
+          </p>
+        </div>
+
+        <div class="rule-restricted">
+          <strong>⚠ Eingeschränkt: Zugang Marmorpalais</strong>
+          <p style="margin: var(--space-1) 0 0; color: #92400e;">
+            Marmorpalais nur mit Führung zugänglich. Voranmeldung empfohlen.
+          </p>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- Gemeinsamkeiten -->
+  <section style="margin-top: var(--space-10); padding: var(--space-6); background: var(--bg-secondary); border-radius: var(--radius-xl);">
+    <h2 style="@apply heading-lg; margin-bottom: var(--space-4);">Gemeinsamkeiten beider Parks</h2>
+    
+    <div style="display: grid; gap: var(--space-3);">
+      <div style="padding: var(--space-3); background: var(--bg-primary); border-radius: var(--radius-md); border-left: 4px solid var(--accent-primary);">
+        <strong>UNESCO-Welterbe</strong>
+        <p style="margin: var(--space-1) 0 0; color: var(--text-secondary);">
+          Beide Parks gehören zum UNESCO-Welterbe "Schlösser und Parks von Potsdam und Berlin" seit 1990.
+        </p>
+      </div>
+
+      <div style="padding: var(--space-3); background: var(--bg-primary); border-radius: var(--radius-md); border-left: 4px solid var(--accent-primary);">
+        <strong>Kostenloser Eintritt</strong>
+        <p style="margin: var(--space-1) 0 0; color: var(--text-secondary);">
+          Beide Parks sind frei zugänglich. Nur Schlossbesichtigungen kosten Eintritt.
+        </p>
+      </div>
+
+      <div style="padding: var(--space-3); background: var(--bg-primary); border-radius: var(--radius-md); border-left: 4px solid var(--accent-primary);">
+        <strong>Öffnungszeiten</strong>
+        <p style="margin: var(--space-1) 0 0; color: var(--text-secondary);">
+          Ganzjährig geöffnet von Sonnenaufgang bis Sonnenuntergang.
+        </p>
+      </div>
+
+      <div style="padding: var(--space-3); background: var(--bg-primary); border-radius: var(--radius-md); border-left: 4px solid var(--accent-primary);">
+        <strong>SPSG-Verwaltung</strong>
+        <p style="margin: var(--space-1) 0 0; color: var(--text-secondary);">
+          Beide Parks werden von der Stiftung Preußische Schlösser und Gärten (SPSG) verwaltet.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Tipps -->
+  <section style="margin-top: var(--space-8);">
+    <h2 style="@apply heading-lg; margin-bottom: var(--space-4);">Praktische Tipps</h2>
+    
+    <div class="kv">
+      <div>
+        <strong>🚴 Radfahrer</strong>
+        <p>Achte auf die Beschilderung vor Ort. Bei Unsicherheit lieber schieben – Bußgelder werden konsequent verhängt.</p>
+      </div>
+
+      <div>
+        <strong>🐕 Hundebesitzer</strong>
+        <p>Leinenpflicht gilt überall. Hundekotbeutel mitbringen – Spender sind rar.</p>
+      </div>
+
+      <div>
+        <strong>📸 Fotografen</strong>
+        <p>Private Fotos jederzeit erlaubt. Für Hochzeits- oder Produktfotos SPSG kontaktieren.</p>
+      </div>
+
+      <div>
+        <strong>🏊 Schwimmer</strong>
+        <p>Beide Parks: Baden verboten. Alternative: Strandbad Babelsberg (1,5 km südlich).</p>
+      </div>
+    </div>
+  </section>
+
+  <footer style="margin-top: var(--space-10); padding-top: var(--space-6); border-top: 1px solid var(--border);">
+    <div style="text-align: center;">
+      <p style="color: var(--text-muted); font-size: 0.9rem; margin-bottom: 16px;">
+        © 2025 Park Babelsberg Info
+      </p>
+      <p style="color: var(--text-secondary); font-size: 0.85rem;">
+        <a href="/" style="color: var(--accent-primary); margin: 0 12px;">← Zurück zur Übersicht</a> ·
+        <a href="/park-babelsberg/impressum.html" style="color: var(--accent-primary); margin: 0 12px;">Impressum</a> ·
+        <a href="/park-babelsberg/datenschutz.html" style="color: var(--accent-primary); margin: 0 12px;">Datenschutz</a>
+      </p>
+    </div>
+  </footer>
+</main>
+
+</body>
+</html>

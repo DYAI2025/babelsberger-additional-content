@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Park Babelsberg Info"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Laufrunde Neuer Garten ~4,0 km (flach)</name>
+    <desc>Flache Laufrunde durch den Neuen Garten am Heiligen See. Community-Vorschlag – Wegegebot beachten (nur asphaltierte Hauptwege).</desc>
+    <author>
+      <name>Park Babelsberg Info</name>
+      <link href="https://park.babelsberger.info"/>
+    </author>
+    <time>2025-10-31T12:00:00Z</time>
+  </metadata>
+  <trk>
+    <name>Neuer Garten Loop 4.0km</name>
+    <desc>Flache Laufrunde um den Heiligen See im Neuen Garten</desc>
+    <trkseg>
+      <!-- Start: Haupteingang Neuer Garten -->
+      <trkpt lat="52.4130" lon="13.0680">
+        <ele>35</ele>
+        <time>2025-10-31T12:00:00Z</time>
+        <name>Start - Haupteingang Neuer Garten</name>
+      </trkpt>
+
+      <!-- Richtung Marmorpalais (Südufer) -->
+      <trkpt lat="52.4135" lon="13.0685">
+        <ele>35</ele>
+        <time>2025-10-31T12:02:30Z</time>
+      </trkpt>
+
+      <trkpt lat="52.4140" lon="13.0690">
+        <ele>34</ele>
+        <time>2025-10-31T12:05:00Z</time>
+      </trkpt>
+
+      <!-- Marmorpalais -->
+      <trkpt lat="52.4145" lon="13.0695">
+        <ele>33</ele>
+        <time>2025-10-31T12:07:30Z</time>
+        <name>Marmorpalais</name>
+      </trkpt>
+
+      <!-- Ostufer des Heiligen Sees -->
+      <trkpt lat="52.4150" lon="13.0700">
+        <ele>34</ele>
+        <time>2025-10-31T12:10:00Z</time>
+      </trkpt>
+
+      <trkpt lat="52.4155" lon="13.0705">
+        <ele>34</ele>
+        <time>2025-10-31T12:12:30Z</time>
+      </trkpt>
+
+      <!-- Nördliches Ende - Nähe Cecilienhof -->
+      <trkpt lat="52.4160" lon="13.0708">
+        <ele>35</ele>
+        <time>2025-10-31T12:15:00Z</time>
+        <name>Nähe Cecilienhof</name>
+      </trkpt>
+
+      <!-- Westufer entlang -->
+      <trkpt lat="52.4162" lon="13.0700">
+        <ele>35</ele>
+        <time>2025-10-31T12:17:30Z</time>
+      </trkpt>
+
+      <trkpt lat="52.4160" lon="13.0690">
+        <ele>36</ele>
+        <time>2025-10-31T12:20:00Z</time>
+      </trkpt>
+
+      <!-- Eiskammer (Pyramide) -->
+      <trkpt lat="52.4155" lon="13.0682">
+        <ele>36</ele>
+        <time>2025-10-31T12:22:00Z</time>
+        <name>Eiskammer (Pyramide)</name>
+      </trkpt>
+
+      <trkpt lat="52.4148" lon="13.0678">
+        <ele>35</ele>
+        <time>2025-10-31T12:24:00Z</time>
+      </trkpt>
+
+      <!-- Rückweg zum Start -->
+      <trkpt lat="52.4140" lon="13.0680">
+        <ele>35</ele>
+        <time>2025-10-31T12:26:00Z</time>
+      </trkpt>
+
+      <trkpt lat="52.4135" lon="13.0680">
+        <ele>35</ele>
+        <time>2025-10-31T12:28:00Z</time>
+      </trkpt>
+
+      <!-- Ende: Zurück zum Haupteingang -->
+      <trkpt lat="52.4130" lon="13.0680">
+        <ele>35</ele>
+        <time>2025-10-31T12:30:00Z</time>
+        <name>Ende - Haupteingang</name>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

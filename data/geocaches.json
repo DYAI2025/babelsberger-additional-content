@@ -1,0 +1,78 @@
+{
+  "caches": [
+    {
+      "id": "park-babelsberg-01",
+      "name": "Park Babelsberg 01",
+      "type": "Multi-Cache",
+      "difficulty": 3.5,
+      "terrain": 2.0,
+      "owner": "g_r",
+      "description": "Multi-Cache mit 8 Stationen durch Park Babelsberg. Führt zu den Highlights des Parks.",
+      "stations": [
+        "Gedenkstein (Start)",
+        "Denkmal Bädeker Feldsieg 1849",
+        "Kleines Schloss",
+        "Dampfmaschinenhaus",
+        "Flatowturm",
+        "Marstall",
+        "Matrosenhaus",
+        "Final (Koordinaten nach Rätsel)"
+      ],
+      "seasons": ["frühling", "sommer", "herbst"],
+      "seasonLabels": "🍂 Beste Zeit: Herbst",
+      "bestSeason": "herbst",
+      "reason": "Weniger Besucher (Muggel) ab September. Angenehme Temperaturen.",
+      "warnings": [
+        "⚠️ Hohe Muggeldichte - diskret loggen!",
+        "⚠️ Wegegebot beachten (UNESCO-Welterbe/SPSG-Parkordnung)",
+        "⚠️ Drohnen strikt verboten",
+        "⚠️ Cache-Status vorher auf geocaching.com prüfen"
+      ],
+      "gcCode": "GC19KQZ",
+      "url": "https://www.geocaching.com/geocache/GC19KQZ",
+      "lastChecked": "2025-10-31"
+    },
+    {
+      "id": "park-babelsberg-02",
+      "name": "Park Babelsberg 02",
+      "type": "Multi-Cache",
+      "difficulty": 3.0,
+      "terrain": 2.5,
+      "owner": "g_r",
+      "description": "Zweiter Multi-Cache mit alternativen Stationen. Kombinierbar mit Cache 01 für Tages-Tour.",
+      "stations": [
+        "Gerichtslaube",
+        "Aussichtspunkt Havel",
+        "Kleine Neugierde",
+        "Final (Koordinaten nach Rätsel)"
+      ],
+      "seasons": ["frühling", "sommer", "herbst"],
+      "seasonLabels": "☀️ Beste Zeit: Sommer",
+      "bestSeason": "sommer",
+      "reason": "Längere Tage ermöglichen entspannte Tour. Gute Kombination mit Picknick.",
+      "warnings": [
+        "⚠️ Terrain anspruchsvoller - festes Schuhwerk!",
+        "⚠️ Wegegebot beachten",
+        "⚠️ Bei Regen rutschig (Nähe Ufer)"
+      ],
+      "gcCode": "GC1A3B2",
+      "url": "https://www.geocaching.com/geocache/GC1A3B2",
+      "lastChecked": "2025-10-31"
+    }
+  ],
+  "tips": {
+    "general": [
+      "Geocaching.com App nutzen für Live-Status",
+      "Logbuch + Stift mitnehmen (oft leer)",
+      "Respekt vor UNESCO-Welterbe - nur auf Wegen bewegen",
+      "Früh morgens oder spät abends = weniger Muggel",
+      "Kombination mit Fotografie-Tour möglich"
+    ],
+    "seasonal": {
+      "frühling": "Blühende Parks, angenehme Temperaturen, moderate Besucherzahl",
+      "sommer": "Lange Tage, aber hohe Muggeldichte (Touristen)",
+      "herbst": "BESTE ZEIT - wenig Besucher, klare Sicht, buntes Laub",
+      "winter": "Ruhig, aber Flatowturm geschlossen (Mai-Okt)"
+    }
+  }
+}
