@@ -1,6 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://park.babelsberger.info/sitemap.xml
-
-# Crawl-delay for polite bots
-Crawl-delay: 1
+Sitemap: https://www.babelsberger.info/sitemap.xml
