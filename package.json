@@ -1,0 +1,25 @@
+{
+  "name": "park-babelsberg-tests",
+  "version": "1.0.0",
+  "description": "Automated tests for Park Babelsberg website",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "test:ui": "playwright test --ui",
+    "test:report": "playwright show-report",
+    "test:links": "playwright test tests/links.spec.ts",
+    "test:map": "playwright test tests/map.spec.ts",
+    "test:adsense": "playwright test tests/adsense.spec.ts",
+    "test:accessibility": "playwright test tests/accessibility.spec.ts",
+    "test:performance": "playwright test tests/performance.spec.ts"
+  },
+  "keywords": ["testing", "playwright", "e2e"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "@axe-core/playwright": "^4.8.0",
+    "playwright": "^1.40.0"
+  }
+}

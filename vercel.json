@@ -1,0 +1,88 @@
+{
+  "version": 2,
+  "public": true,
+  "builds": [
+    {
+      "src": "park-babelsberg/**",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/park/?",
+      "dest": "/park-babelsberg/park-babelsberg.html"
+    },
+    {
+      "src": "/schloss/?",
+      "dest": "/park-babelsberg/schloss-babelsberg.html"
+    },
+    {
+      "src": "/essen/?",
+      "dest": "/park-babelsberg/gastronomie.html"
+    },
+    {
+      "src": "/gastronomie/?",
+      "dest": "/park-babelsberg/gastronomie.html"
+    },
+    {
+      "src": "/sehenswuerdigkeiten/?",
+      "dest": "/park-babelsberg/index.html#highlights"
+    },
+    {
+      "src": "/attraktionen/?",
+      "dest": "/park-babelsberg/index.html#highlights"
+    },
+    {
+      "src": "/flatowturm/?",
+      "dest": "/park-babelsberg/flatowturm.html"
+    },
+    {
+      "src": "/uferweg/?",
+      "dest": "/park-babelsberg/uferweg-nord.html"
+    },
+    {
+      "src": "/uferweg-nord/?",
+      "dest": "/park-babelsberg/uferweg-nord.html"
+    },
+    {
+      "src": "/matrosenhaus/?",
+      "dest": "/park-babelsberg/matrosenhaus.html"
+    },
+    {
+      "src": "/liegewiesen/?",
+      "dest": "/park-babelsberg/liegewiesen.html"
+    },
+    {
+      "src": "/neuer-garten/?",
+      "dest": "/park-babelsberg/neuer-garten.html"
+    },
+    {
+      "src": "/park-glienicke/?",
+      "dest": "/park-babelsberg/park-glienicke.html"
+    },
+    {
+      "src": "/impressum/?",
+      "dest": "/park-babelsberg/impressum.html"
+    },
+    {
+      "src": "/datenschutz/?",
+      "dest": "/park-babelsberg/datenschutz.html"
+    },
+    {
+      "src": "/anreise/?",
+      "dest": "/park-babelsberg/index.html#anreise"
+    },
+    {
+      "src": "/parkordnung/?",
+      "dest": "/park-babelsberg/parkordnung-vergleich.html"
+    },
+    {
+      "src": "/",
+      "dest": "/park-babelsberg/index.html"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/park-babelsberg/$1"
+    }
+  ]
+}
